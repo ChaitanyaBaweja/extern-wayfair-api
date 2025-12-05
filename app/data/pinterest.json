@@ -1,0 +1,82 @@
+[
+  {
+    "id": "pin_area_rug_1",
+    "filename": "area_rug_1.jpg",
+    "category": "area_rug",
+    "url": "https://www.pinterest.com/pin/area-rug-living-room-ideas",
+    "caption": "Area Rug Styling Guide: How to choose the perfect size rug for your living room. Pro tip: the rug should be large enough for all front furniture legs to sit on it.",
+    "hashtags": ["#arearug", "#livingroomrug", "#rugsize", "#interiordesigntips", "#homedecor", "#furnitureplacement"],
+    "engagement": 12450,
+    "posted_at": "2024-10-20"
+  },
+  {
+    "id": "pin_area_rug_2",
+    "filename": "area_rug_2.jpg",
+    "category": "area_rug",
+    "url": "https://www.pinterest.com/pin/modern-area-rug-trends",
+    "caption": "2024 Area Rug Trends: Bold geometric patterns and earthy tones are dominating this season. Save this for your next room refresh!",
+    "hashtags": ["#arearug", "#2024trends", "#geometricrug", "#earthytones", "#modernrug", "#homeinspiration"],
+    "engagement": 8932,
+    "posted_at": "2024-11-01"
+  },
+  {
+    "id": "pin_outdoor_rug_1",
+    "filename": "outdoor_rug_1.jpg",
+    "category": "outdoor_rug",
+    "url": "https://www.pinterest.com/pin/outdoor-patio-rug-inspiration",
+    "caption": "Outdoor Rug Buying Guide: Look for polypropylene or recycled plastic materials that resist moisture, mold, and UV fading. Perfect for patios, decks, and porches!",
+    "hashtags": ["#outdoorrug", "#patiodesign", "#outdoorliving", "#weatherproof", "#deckdecor", "#summerenteraining"],
+    "engagement": 15678,
+    "posted_at": "2024-09-15"
+  },
+  {
+    "id": "pin_outdoor_rug_2",
+    "filename": "outdoor_rug_2.jpg",
+    "category": "outdoor_rug",
+    "url": "https://www.pinterest.com/pin/coastal-outdoor-rug-style",
+    "caption": "Coastal Outdoor Living: Blue and white striped outdoor rugs create instant beach house vibes. Pair with wicker furniture for the complete look!",
+    "hashtags": ["#outdoorrug", "#coastalstyle", "#beachhouse", "#blueandwhite", "#outdoordecor", "#wickerfurniture"],
+    "engagement": 11234,
+    "posted_at": "2024-10-10"
+  },
+  {
+    "id": "pin_hallway_runner_1",
+    "filename": "hallway_runner_1.jpg",
+    "category": "hallway_runner",
+    "url": "https://www.pinterest.com/pin/entryway-runner-ideas",
+    "caption": "Entryway Runner Inspiration: A well-chosen runner rug sets the tone for your entire home. Measure your hallway and leave 4-6 inches on each side for balance.",
+    "hashtags": ["#hallwayrunner", "#entryway", "#runnerrug", "#firstimpressions", "#foyer", "#welcomehome"],
+    "engagement": 7845,
+    "posted_at": "2024-11-05"
+  },
+  {
+    "id": "pin_hallway_runner_2",
+    "filename": "hallway_runner_2.jpg",
+    "category": "hallway_runner",
+    "url": "https://www.pinterest.com/pin/traditional-runner-rug-styles",
+    "caption": "Classic Runner Rugs: Persian and Oriental patterns never go out of style. These traditional designs add elegance and warmth to any hallway.",
+    "hashtags": ["#hallwayrunner", "#persianrug", "#orientalrug", "#traditionalstyle", "#classicdecor", "#timelessdesign"],
+    "engagement": 9456,
+    "posted_at": "2024-10-25"
+  },
+  {
+    "id": "pin_shag_rug_1",
+    "filename": "shag_rug_1.jpg",
+    "category": "shag_rug",
+    "url": "https://www.pinterest.com/pin/cozy-shag-rug-bedroom",
+    "caption": "Bedroom Shag Rug Ideas: Place a plush shag rug under the bottom two-thirds of your bed for the ultimate cozy morning experience. High pile = maximum comfort!",
+    "hashtags": ["#shagrug", "#bedroomrug", "#cozyroom", "#plushrug", "#bedroomdecor", "#luxuryfeeling"],
+    "engagement": 18923,
+    "posted_at": "2024-10-30"
+  },
+  {
+    "id": "pin_shag_rug_2",
+    "filename": "shag_rug_2.jpg",
+    "category": "shag_rug",
+    "url": "https://www.pinterest.com/pin/modern-shag-rug-living-room",
+    "caption": "Modern Shag Rugs: Today's shag rugs come in sophisticated neutrals and sleek textures. Perfect for adding warmth to minimalist spaces without overwhelming the design.",
+    "hashtags": ["#shagrug", "#modernshag", "#minimalistdecor", "#neutralrug", "#texturedrug", "#contemporaryhome"],
+    "engagement": 14567,
+    "posted_at": "2024-11-12"
+  }
+]

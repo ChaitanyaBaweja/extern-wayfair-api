@@ -1,0 +1,82 @@
+[
+  {
+    "id": "ig_area_rug_1",
+    "filename": "area_rug_1.jpg",
+    "category": "area_rug",
+    "url": "https://www.instagram.com/p/area-rug-trends-2024",
+    "caption": "Transform your living space with this stunning area rug! The perfect blend of comfort and style for any room. Love how it ties the whole space together! 🏠✨",
+    "hashtags": ["#arearug", "#homedecor", "#interiordesign", "#livingroom", "#ruglove", "#homeinspo", "#modernhome", "#cozyvibes"],
+    "engagement": 2847,
+    "posted_at": "2024-11-15"
+  },
+  {
+    "id": "ig_area_rug_2",
+    "filename": "area_rug_2.jpg",
+    "category": "area_rug",
+    "url": "https://www.instagram.com/p/area-rug-styling-tips",
+    "caption": "Area rugs are the secret to defining spaces in open floor plans. This geometric pattern adds so much character! What's your favorite rug style?",
+    "hashtags": ["#arearug", "#geometricrug", "#homedecor", "#openfloorplan", "#interiordesign", "#rugstyle", "#homemakeover"],
+    "engagement": 3215,
+    "posted_at": "2024-11-20"
+  },
+  {
+    "id": "ig_outdoor_rug_1",
+    "filename": "outdoor_rug_1.jpg",
+    "category": "outdoor_rug",
+    "url": "https://www.instagram.com/p/outdoor-patio-refresh",
+    "caption": "Patio season is here! This weather-resistant outdoor rug completely transformed our deck space. Perfect for entertaining! ☀️🌿",
+    "hashtags": ["#outdoorrug", "#patiodecor", "#outdoorliving", "#deckdesign", "#summervibes", "#backyardoasis", "#weatherresistant"],
+    "engagement": 4102,
+    "posted_at": "2024-10-28"
+  },
+  {
+    "id": "ig_outdoor_rug_2",
+    "filename": "outdoor_rug_2.jpg",
+    "category": "outdoor_rug",
+    "url": "https://www.instagram.com/p/outdoor-rug-styling",
+    "caption": "Don't sleep on outdoor rugs! They're the easiest way to make your patio feel like an extension of your home. This coastal pattern is giving all the vacation vibes 🌊",
+    "hashtags": ["#outdoorrug", "#coastaldecor", "#patiodesign", "#outdoorfurniture", "#beachhouse", "#summerready", "#alfresco"],
+    "engagement": 2956,
+    "posted_at": "2024-11-05"
+  },
+  {
+    "id": "ig_hallway_runner_1",
+    "filename": "hallway_runner_1.jpg",
+    "category": "hallway_runner",
+    "url": "https://www.instagram.com/p/hallway-runner-goals",
+    "caption": "Finally found the perfect runner for our entryway! It adds warmth and protects our hardwood floors. Win-win! 🚪✨",
+    "hashtags": ["#hallwayrunner", "#entrywaydecor", "#runnerrug", "#hardwoodfloors", "#homestyle", "#entrywaygoals", "#welcomehome"],
+    "engagement": 1893,
+    "posted_at": "2024-11-12"
+  },
+  {
+    "id": "ig_hallway_runner_2",
+    "filename": "hallway_runner_2.jpg",
+    "category": "hallway_runner",
+    "url": "https://www.instagram.com/p/vintage-runner-find",
+    "caption": "This vintage-inspired runner adds so much character to our narrow hallway. Love how it creates a visual pathway through the home 🏡",
+    "hashtags": ["#hallwayrunner", "#vintagerug", "#hallwaydecor", "#runnerrug", "#traditionaldecor", "#homedetails", "#narrowhallway"],
+    "engagement": 2341,
+    "posted_at": "2024-11-18"
+  },
+  {
+    "id": "ig_shag_rug_1",
+    "filename": "shag_rug_1.jpg",
+    "category": "shag_rug",
+    "url": "https://www.instagram.com/p/cozy-shag-bedroom",
+    "caption": "Nothing beats stepping onto a plush shag rug first thing in the morning! This ultra-soft piece makes our bedroom feel like a luxury retreat 😴☁️",
+    "hashtags": ["#shagrug", "#bedroomdecor", "#cozyvibes", "#plushrug", "#luxuryhome", "#softrug", "#bedroomgoals", "#hygge"],
+    "engagement": 5234,
+    "posted_at": "2024-11-08"
+  },
+  {
+    "id": "ig_shag_rug_2",
+    "filename": "shag_rug_2.jpg",
+    "category": "shag_rug",
+    "url": "https://www.instagram.com/p/modern-shag-living",
+    "caption": "Who says shag rugs are outdated? This modern take adds texture and warmth without the retro look. Perfect for our minimalist living room!",
+    "hashtags": ["#shagrug", "#modernhome", "#minimalistdecor", "#texturedrug", "#livingroomdecor", "#contemporarydesign", "#cozyhome"],
+    "engagement": 3876,
+    "posted_at": "2024-11-22"
+  }
+]

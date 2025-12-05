@@ -1,0 +1,42 @@
+[
+  {
+    "id": "blog_area_rug",
+    "filename": "area_rug.pdf",
+    "category": "area_rug",
+    "url": "https://www.wayfair.com/ideas-and-advice/area-rug-buying-guide",
+    "title": "The Complete Area Rug Buying Guide: Sizes, Styles & Materials",
+    "excerpt": "Everything you need to know about choosing the perfect area rug for your space. From measuring your room to selecting the right material, this comprehensive guide covers all the essentials for making an informed purchase.",
+    "source_name": "Wayfair Ideas & Advice",
+    "published_at": "2024-09-01"
+  },
+  {
+    "id": "blog_outdoor_rug",
+    "filename": "outdoor_rug.pdf",
+    "category": "outdoor_rug",
+    "url": "https://www.wayfair.com/ideas-and-advice/outdoor-rug-guide",
+    "title": "Outdoor Rugs: Weather-Resistant Options for Patios & Decks",
+    "excerpt": "Discover how to choose durable outdoor rugs that withstand sun, rain, and heavy foot traffic. Learn about the best materials like polypropylene and recycled plastic, plus styling tips for creating an inviting outdoor living space.",
+    "source_name": "Wayfair Ideas & Advice",
+    "published_at": "2024-08-15"
+  },
+  {
+    "id": "blog_hallway_runner",
+    "filename": "hallway_runner.pdf",
+    "category": "hallway_runner",
+    "url": "https://www.wayfair.com/ideas-and-advice/runner-rug-guide",
+    "title": "Hallway Runner Rugs: Sizing, Placement & Style Guide",
+    "excerpt": "Transform your entryways, hallways, and staircases with the perfect runner rug. This guide covers standard runner sizes, how to measure for the ideal fit, and design tips to create a welcoming first impression.",
+    "source_name": "Wayfair Ideas & Advice",
+    "published_at": "2024-10-01"
+  },
+  {
+    "id": "blog_shag_rug",
+    "filename": "shag_rug.pdf",
+    "category": "shag_rug",
+    "url": "https://www.wayfair.com/ideas-and-advice/shag-rug-guide",
+    "title": "Shag Rugs: Pile Heights, Care Tips & Modern Styling Ideas",
+    "excerpt": "Explore the cozy world of shag rugs, from ultra-plush high-pile options to modern low-pile variations. Learn about different materials, maintenance requirements, and how to incorporate shag rugs into contemporary interiors.",
+    "source_name": "Wayfair Ideas & Advice",
+    "published_at": "2024-10-20"
+  }
+]
