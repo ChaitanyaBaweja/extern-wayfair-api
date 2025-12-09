@@ -20,6 +20,56 @@
     "posted_at": "2024-11-01"
   },
   {
+    "id": "pin_area_rug_3",
+    "filename": "area_rug_3.jpg",
+    "category": "area_rug",
+    "url": "https://in.pinterest.com/pin/1144829167800129131/",
+    "caption": "Hand Tufted Wool Area Rug: Neutral Beige Wave Pattern. This indoor area rug is made from 100% pure wool with a hand-tufted high-low pile construction. Features a cream and beige color palette with a soft wavy pattern creating a subtle 3D textured effect. Minimalist, modern look perfect for living rooms and bedrooms.",
+    "hashtags": ["#arearug", "#handtufted", "#woolrug", "#neutraldecor", "#wavepattern", "#minimalistdesign", "#texturedrug", "#modernhome"],
+    "engagement": 4521,
+    "posted_at": "2024-11-25"
+  },
+  {
+    "id": "pin_area_rug_4",
+    "filename": "area_rug_4.jpg",
+    "category": "area_rug",
+    "url": "https://in.pinterest.com/pin/604326843791952812/",
+    "caption": "Hand Tufted Abstract Rug: Modern Geometric Colorful Carpet Maze Pattern. Indoor area rug with soft, dense pile featuring an abstract wavy geometric pattern in rust orange, mustard, beige, cream, forest green, and deep teal. Smooth color transitions create a modern, artistic look for contemporary living rooms.",
+    "hashtags": ["#arearug", "#abstractrug", "#colorfulrug", "#geometricpattern", "#handtufted", "#modernart", "#contemporarydecor", "#statementrug"],
+    "engagement": 6234,
+    "posted_at": "2024-11-20"
+  },
+  {
+    "id": "pin_area_rug_5",
+    "filename": "area_rug_5.jpg",
+    "category": "area_rug",
+    "url": "https://in.pinterest.com/pin/41236152832226430/",
+    "caption": "Geometric 8x10 Retro Abstract Colorful Area Rug: Mid-Century Modern Carpet, Washable & Non Slip & Soft. Indoor rug with retro, mid-century-inspired geometric pattern featuring overlapping shapes in warm and cool colors. Low to medium pile with smooth texture and non-slip backing.",
+    "hashtags": ["#arearug", "#retrorug", "#midcenturymodern", "#geometricrug", "#washablerug", "#colorfulhome", "#8x10rug", "#nonslip"],
+    "engagement": 8976,
+    "posted_at": "2024-11-18"
+  },
+  {
+    "id": "pin_area_rug_6",
+    "filename": "area_rug_6.jpg",
+    "category": "area_rug",
+    "url": "https://in.pinterest.com/pin/4597401252134596608/",
+    "caption": "Hand-Tufted Wool Rug: 3D High-Low Texture, Modern Minimalist Design. Premium hand-tufted wool rug with exquisite high-low texture adding depth and elegance. Made with high-quality wool, this modern abstract rug blends luxury and comfort for living room, bedroom, or office.",
+    "hashtags": ["#arearug", "#handtufted", "#woolrug", "#3Dtexture", "#minimalistrug", "#luxuryrug", "#moderndesign", "#premiumrug"],
+    "engagement": 5432,
+    "posted_at": "2024-11-22"
+  },
+  {
+    "id": "pin_area_rug_7",
+    "filename": "area_rug_7.jpg",
+    "category": "area_rug",
+    "url": "https://in.pinterest.com/pin/78250112274707503/",
+    "caption": "100% New Zealand Wool Indoor Area Rug: Hand-tufted with medium 0.75\" pile height in warm copper color. Features soft, textured surface with natural variation typical of handmade wool rugs. Cotton backing included. Perfect for living rooms and bedrooms seeking warm, woolen comfort.",
+    "hashtags": ["#arearug", "#newzealandwool", "#copperrug", "#handtufted", "#naturalrug", "#woolrug", "#warmtones", "#handmade"],
+    "engagement": 3876,
+    "posted_at": "2024-11-28"
+  },
+  {
     "id": "pin_outdoor_rug_1",
     "filename": "outdoor_rug_1.jpg",
     "category": "outdoor_rug",
@@ -38,6 +88,46 @@
     "hashtags": ["#outdoorrug", "#coastalstyle", "#beachhouse", "#blueandwhite", "#outdoordecor", "#wickerfurniture"],
     "engagement": 11234,
     "posted_at": "2024-10-10"
+  },
+  {
+    "id": "pin_outdoor_rug_3",
+    "filename": "outdoor_rug_3.jpg",
+    "category": "outdoor_rug",
+    "url": "https://in.pinterest.com/pin/4593812490083477760/",
+    "caption": "Unique Loom Baja Outdoor Collection: Inspired by tropical rainforest with rich palm leaf colors and warm earth tones from ivory and tan to evergreen and rust red. Features Aztec-inspired geometric and botanical patterns. Made of polypropylene with low pile, kid-friendly and stain-resistant for indoor/outdoor placement.",
+    "hashtags": ["#outdoorrug", "#bajarug", "#tropicalstyle", "#polypropylene", "#weatherresistant", "#patiorug", "#geometricpattern", "#uniqueloom"],
+    "engagement": 7654,
+    "posted_at": "2024-11-15"
+  },
+  {
+    "id": "pin_outdoor_rug_4",
+    "filename": "outdoor_rug_4.jpg",
+    "category": "outdoor_rug",
+    "url": "https://in.pinterest.com/pin/108227197290171402/",
+    "caption": "Machine Washable Indoor/Outdoor Modern Geo Chantille Rug: Oversized V-shaped modern pattern combining transitional and geometric aesthetics. UV stabilized for lasting vibrancy, ultra-thin construction with machine-washable features. Family and pet-friendly with built-in non-skid backing.",
+    "hashtags": ["#outdoorrug", "#machinewashable", "#geometricrug", "#uvstabilized", "#petfriendly", "#modernrug", "#indooroutdoor", "#easycare"],
+    "engagement": 5432,
+    "posted_at": "2024-11-20"
+  },
+  {
+    "id": "pin_outdoor_rug_5",
+    "filename": "outdoor_rug_5.jpg",
+    "category": "outdoor_rug",
+    "url": "https://in.pinterest.com/pin/526780487685777866/",
+    "caption": "Nourison Positano Outdoor Blue Green 8' x 10': Flatweave rug elegant enough for living room yet durable for outdoor use. Features retro tile-inspired checkered diamond pattern with space-dyed color effect in blue and green. Machine-made from polypropylene - just hose rinse and air dry!",
+    "hashtags": ["#outdoorrug", "#nourison", "#positano", "#bluegreen", "#flatweave", "#checkeredpattern", "#retrostyle", "#easycare"],
+    "engagement": 9876,
+    "posted_at": "2024-11-10"
+  },
+  {
+    "id": "pin_outdoor_rug_6",
+    "filename": "outdoor_rug_6.jpg",
+    "category": "outdoor_rug",
+    "url": "https://in.pinterest.com/pin/33777065953330126/",
+    "caption": "Selecting Outdoor Rugs That Withstand Summer Weather for Long-Lasting Durability. Materials like polyester and polypropylene are great options - they dry quickly and resist mildew. Perfect choice for patios, decks, or outdoor dining areas.",
+    "hashtags": ["#outdoorrug", "#weatherresistant", "#patiodecor", "#durablerug", "#summerstyle", "#outdoorliving", "#rugguide", "#mildewresistant"],
+    "engagement": 12543,
+    "posted_at": "2024-10-28"
   },
   {
     "id": "pin_hallway_runner_1",
@@ -60,6 +150,86 @@
     "posted_at": "2024-10-25"
   },
   {
+    "id": "pin_hallway_runner_3",
+    "filename": "hallway_runner_3.jpg",
+    "category": "hallway_runner",
+    "url": "https://in.pinterest.com/pin/4609012077538501376/",
+    "caption": "Handmade Colorful Wavy Runner Rug: Earth Flow design featuring graceful wavy pattern in Orange & Cream. Hand-tufted with premium quality fibers, the plush surface offers comfort underfoot while adding movement and texture. Perfect for modern interiors, creative studios, and architectural walkways.",
+    "hashtags": ["#hallwayrunner", "#wavyrug", "#orangecream", "#handtufted", "#modernrunner", "#texturedrug", "#corridorrug", "#statementpiece"],
+    "engagement": 4532,
+    "posted_at": "2024-11-25"
+  },
+  {
+    "id": "pin_hallway_runner_4",
+    "filename": "hallway_runner_4.jpg",
+    "category": "hallway_runner",
+    "url": "https://in.pinterest.com/pin/4594305074496828928/",
+    "caption": "Modern Olive-Link Runner Rug: Organic Symmetry in Motion. Features rhythmic sequence of rounded, linked shapes resembling stylized pebbles in olive green on soft beige ground. Made from wool or wool-blend with medium pile. Hand tufted cut and loop pile using finest New Zealand Wool with natural colors.",
+    "hashtags": ["#hallwayrunner", "#olivegreen", "#organicdesign", "#woolrunner", "#handtufted", "#scandinavianstyle", "#modernrunner", "#naturalcolors"],
+    "engagement": 3876,
+    "posted_at": "2024-11-22"
+  },
+  {
+    "id": "pin_hallway_runner_5",
+    "filename": "hallway_runner_5.jpg",
+    "category": "hallway_runner",
+    "url": "https://in.pinterest.com/pin/4605141842507088640/",
+    "caption": "Modern Wavy Runner Rug: Luxurious blend of retro charm with contemporary elegance. Bold yellow and creamy white wave pattern that uplifts any minimalist interior. Handcrafted with premium-quality fibers for exceptional durability. Ideal for hallways, corridors, and long walkways.",
+    "hashtags": ["#hallwayrunner", "#wavyrunner", "#yellowwhite", "#retromodern", "#minimalistdecor", "#premiumrug", "#longrunner", "#moderndesign"],
+    "engagement": 5678,
+    "posted_at": "2024-11-20"
+  },
+  {
+    "id": "pin_hallway_runner_6",
+    "filename": "hallway_runner_6.jpg",
+    "category": "hallway_runner",
+    "url": "https://in.pinterest.com/pin/36591815718128016/",
+    "caption": "Handwoven Hemp and Jute Rug Dhurrie: Natural, eco-friendly, and versatile. Crafted using traditional hand braiding techniques with 100% natural hemp and jute. Durable, biodegradable, free from harmful chemicals. Perfect as bedside rug, area runner, or in living room, hallway, or entryway.",
+    "hashtags": ["#hallwayrunner", "#jute", "#hemp", "#ecofriendly", "#handwoven", "#sustainablerug", "#naturalfibers", "#rusticdecor"],
+    "engagement": 6543,
+    "posted_at": "2024-11-18"
+  },
+  {
+    "id": "pin_hallway_runner_7",
+    "filename": "hallway_runner_7.jpg",
+    "category": "hallway_runner",
+    "url": "https://in.pinterest.com/pin/195062227605878562/",
+    "caption": "Farmhouse Washable Runner Rug: Non-slip soft carpet with rubber back and wear-resistant machine-made suede. Low profile 8mm pile height fits under any door. Perfect for bedroom, bathroom, kitchen, entryway, laundry room, hallways, and high-traffic areas. Easy care machine washable.",
+    "hashtags": ["#hallwayrunner", "#farmhousestyle", "#washablerug", "#nonslip", "#lowprofile", "#kitchenrunner", "#entrywayrug", "#easycare"],
+    "engagement": 8765,
+    "posted_at": "2024-11-15"
+  },
+  {
+    "id": "pin_hallway_runner_8",
+    "filename": "hallway_runner_8.jpg",
+    "category": "hallway_runner",
+    "url": "https://in.pinterest.com/pin/541557923963817134/",
+    "caption": "Mustard, Pink & Burgundy Geometric Runner Rug: Elegantly crafted modern-boho inspired runner with dynamic elongated oval shape. Multi-layered pattern with mustard-yellow sunburst border, dusty rose-pink layer, bold black and white stripes, and deep burgundy center. Plush, high-pile tufted wool blend.",
+    "hashtags": ["#hallwayrunner", "#bohorunner", "#mustardpink", "#geometricrug", "#modernboho", "#colorfulrunner", "#statementrug", "#tuftedrug"],
+    "engagement": 7234,
+    "posted_at": "2024-11-12"
+  },
+  {
+    "id": "pin_hallway_runner_9",
+    "filename": "hallway_runner_9.jpg",
+    "category": "hallway_runner",
+    "url": "https://in.pinterest.com/pin/490470215689669023/",
+    "caption": "Easy Clean Rug Textured Border Runner: Durable Non-Slip Pet-Friendly Boho Style. Chic two-tone design with woven center and bold border for added sophistication. Intricate weave pattern provides natural look while contrasting border adds definition. Perfect for high-traffic hallways, kitchens, or entryways.",
+    "hashtags": ["#hallwayrunner", "#bohostyle", "#texturedrug", "#petfriendly", "#easyclean", "#twotonerug", "#durablerug", "#naturalweave"],
+    "engagement": 5432,
+    "posted_at": "2024-11-10"
+  },
+  {
+    "id": "pin_hallway_runner_10",
+    "filename": "hallway_runner_10.jpg",
+    "category": "hallway_runner",
+    "url": "https://in.pinterest.com/pin/16395986138111915/",
+    "caption": "Hallway Runner Kilim Cotton Carpet: Hand block printed area rug for kitchen, dining room, stairs. Handmade cotton rug with traditional block printing, 100% natural cotton ensuring soft, lightweight, and durable texture. Perfect as modern farmhouse rug, bohemian rug, or minimalist decor.",
+    "hashtags": ["#hallwayrunner", "#kilimrug", "#cottonrug", "#handblockprint", "#farmhousedecor", "#bohemianrug", "#naturalcotton", "#stairrunner"],
+    "engagement": 6789,
+    "posted_at": "2024-11-08"
+  },
+  {
     "id": "pin_shag_rug_1",
     "filename": "shag_rug_1.jpg",
     "category": "shag_rug",
@@ -78,5 +248,85 @@
     "hashtags": ["#shagrug", "#modernshag", "#minimalistdecor", "#neutralrug", "#texturedrug", "#contemporaryhome"],
     "engagement": 14567,
     "posted_at": "2024-11-12"
+  },
+  {
+    "id": "pin_shag_rug_3",
+    "filename": "shag_rug_3.jpg",
+    "category": "shag_rug",
+    "url": "https://in.pinterest.com/pin/70720656643676989/",
+    "caption": "Soft Velvet Surface Shag Rug: 1.7 inch durable synthetic microfiber with 0.3 inch thick memory foam for softer feel. Ultra-soft and warm, keeping you and your baby extra cozy on the floor. Variety of colors to fit any themed room. Perfect for living room, bedroom, or children's playroom.",
+    "hashtags": ["#shagrug", "#velvetrug", "#memoryfoam", "#softrug", "#kidsroom", "#cozyrug", "#plushrug", "#colorfulrug"],
+    "engagement": 9876,
+    "posted_at": "2024-11-25"
+  },
+  {
+    "id": "pin_shag_rug_4",
+    "filename": "shag_rug_4.jpg",
+    "category": "shag_rug",
+    "url": "https://in.pinterest.com/pin/321796335879185372/",
+    "caption": "100% New Zealand Wool Shag Rug: Premium felted wool to decrease shedding with recycled cotton backing. Luxuriously soft underfoot with natural wool texture. Sustainable choice combining premium materials with eco-conscious backing.",
+    "hashtags": ["#shagrug", "#newzealandwool", "#woolrug", "#sustainablerug", "#recycledcotton", "#premiumrug", "#feltwool", "#ecofriendly"],
+    "engagement": 7654,
+    "posted_at": "2024-11-22"
+  },
+  {
+    "id": "pin_shag_rug_5",
+    "filename": "shag_rug_5.jpg",
+    "category": "shag_rug",
+    "url": "https://in.pinterest.com/pin/4601201167014353152/",
+    "caption": "Sheen Shag Area Rug from Threshold: Rectangular shag with subtle sheen for chic look. Woven recycled polyester fabric provides soft comfort underfoot. Latex-blend backing keeps it in place. Medium pile, easy to clean, blends with any existing decor. Indoor use only.",
+    "hashtags": ["#shagrug", "#sheenrug", "#recycledpolyester", "#mediumple", "#threshold", "#sustainablerug", "#indoorrug", "#modernshag"],
+    "engagement": 11234,
+    "posted_at": "2024-11-20"
+  },
+  {
+    "id": "pin_shag_rug_6",
+    "filename": "shag_rug_6.jpg",
+    "category": "shag_rug",
+    "url": "https://in.pinterest.com/pin/626000416987734349/",
+    "caption": "Sheep Shag Rug Collection: Dense, curly pile that's a complete treat for the senses. Hand-tufted for cushion-soft feel with 1.81 inch pile thickness. Made using finest quality synthetic yarns for durable, easy-care shag. Made in India. Indoor use only.",
+    "hashtags": ["#shagrug", "#sheepshag", "#handtufted", "#curlypile", "#luxuryrug", "#softshag", "#highpile", "#indoorrug"],
+    "engagement": 8765,
+    "posted_at": "2024-11-18"
+  },
+  {
+    "id": "pin_shag_rug_7",
+    "filename": "shag_rug_7.jpg",
+    "category": "shag_rug",
+    "url": "https://in.pinterest.com/pin/332703491245469069/",
+    "caption": "Moroccan Hand-Knotted Wool Shag: Each rug woven knot by knot, then bathed and air-dried under serene Moroccan skies. Designer approved tribal rug with 100% wool from Atlas Mountains sheep - exceptionally thick and fluffy, one of highest quality materials in the world for rugs.",
+    "hashtags": ["#shagrug", "#moroccanrug", "#handknotted", "#tribalrug", "#atlasmountains", "#woolrug", "#luxuryshag", "#artisanmade"],
+    "engagement": 15432,
+    "posted_at": "2024-11-15"
+  },
+  {
+    "id": "pin_shag_rug_8",
+    "filename": "shag_rug_8.jpg",
+    "category": "shag_rug",
+    "url": "https://in.pinterest.com/pin/171699804537749190/",
+    "caption": "Microplush Performance Shag Rug: Crafted of 100% polyester with synthetic latex cotton backing. More durable and flexible backing that reduces odor and extends rug life. Safe for latex allergies. 1 inch pile height. Shedding of loose fibers is normal and will diminish with regular vacuuming.",
+    "hashtags": ["#shagrug", "#microplush", "#performancerug", "#polyesterrug", "#latexfree", "#softshag", "#durablerug", "#easycare"],
+    "engagement": 6543,
+    "posted_at": "2024-11-12"
+  },
+  {
+    "id": "pin_shag_rug_9",
+    "filename": "shag_rug_9.jpg",
+    "category": "shag_rug",
+    "url": "https://in.pinterest.com/pin/4593812492921055488/",
+    "caption": "Bohemian Stripe Lines Shag Rug: Cozy medium pile with soft Bohemian stripe pattern adding inviting texture. Comes in crisp white, perfect for living rooms, bedrooms, or play spaces. 100% Polyester with durable jute backing. Kid and pet friendly, easy to clean, stain and fade resistant, no shedding.",
+    "hashtags": ["#shagrug", "#bohemianrug", "#stripedshag", "#whiterug", "#petfriendly", "#kidfriendly", "#mediumple", "#noshedding"],
+    "engagement": 7890,
+    "posted_at": "2024-11-10"
+  },
+  {
+    "id": "pin_shag_rug_10",
+    "filename": "shag_rug_10.jpg",
+    "category": "shag_rug",
+    "url": "https://in.pinterest.com/pin/127226758217859194/",
+    "caption": "Cavalcanti Checkered Shag Area Rug: Stunningly soft and cosy 1.18 inch high pile with well-balanced modern design. Made from high-quality microset polypropylene yarn with durable woven construction. Stain resistant, non-shedding, suitable for floor heating. OEKO-TEX Standard 100 Certified. Cream, Orange, Pink colors.",
+    "hashtags": ["#shagrug", "#checkeredrug", "#highpile", "#oekotex", "#stainresistant", "#floorheating", "#modernshag", "#polypropylene"],
+    "engagement": 10234,
+    "posted_at": "2024-11-08"
   }
 ]

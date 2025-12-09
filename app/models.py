@@ -139,6 +139,7 @@ class BlogDataItem(BaseModel):
     id: str
     filename: str
     category: str
+    blog_type: str = "guide"  # "trends", "market", or "guide"
     url: str
     title: str
     excerpt: str

@@ -72,12 +72,20 @@ def extract_pdf_text(filename: str) -> str:
         return f"[Error extracting PDF content: {str(e)}]"
 
 
+VALID_BLOG_TYPES = ["trends", "market", "guide"]
+
+
 @router.get("/blogs", response_model=BlogsResponse)
 async def get_blog_trends(
     category: Optional[str] = Query(
         None,
         description="Filter by rug category",
         enum=VALID_CATEGORIES
+    ),
+    blog_type: Optional[str] = Query(
+        None,
+        description="Filter by blog type (trends, market, guide)",
+        enum=VALID_BLOG_TYPES
     ),
     limit: int = Query(
         10,
@@ -90,6 +98,7 @@ async def get_blog_trends(
     Get blog trend data with extracted PDF content.
 
     - **category**: Optional filter by rug category (area_rug, outdoor_rug, hallway_runner, shag_rug)
+    - **blog_type**: Optional filter by content type (trends, market, guide)
     - **limit**: Maximum number of items to return (default: 10, max: 50)
     """
     # Load data from JSON
@@ -98,6 +107,10 @@ async def get_blog_trends(
     # Filter by category if specified
     if category:
         all_items = [item for item in all_items if item.category == category]
+
+    # Filter by blog_type if specified
+    if blog_type:
+        all_items = [item for item in all_items if item.blog_type == blog_type]
 
     # Apply limit
     all_items = all_items[:limit]

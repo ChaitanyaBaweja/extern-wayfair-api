@@ -1,42 +1,134 @@
 [
   {
-    "id": "blog_area_rug",
-    "filename": "area_rug.pdf",
+    "id": "blog_area_rug_trends",
+    "filename": "area_rug_trends.pdf",
     "category": "area_rug",
+    "blog_type": "trends",
+    "url": "https://www.wayfair.com/ideas-and-advice/area-rug-trends",
+    "title": "Area Rug Trends 2025-2026: Colors, Patterns & Styles",
+    "excerpt": "Discover the hottest area rug trends for 2025-2026, including earthy warm tones, oversized statement patterns, sustainable materials, and the continued rise of vintage-inspired designs.",
+    "source_name": "Wayfair Ideas & Advice",
+    "published_at": "2025-01-01"
+  },
+  {
+    "id": "blog_area_rug_market",
+    "filename": "area_rug_market.pdf",
+    "category": "area_rug",
+    "blog_type": "market",
+    "url": "https://www.wayfair.com/ideas-and-advice/area-rug-market",
+    "title": "Area Rug Market Report 2025-2033: Size, Growth & Forecasts",
+    "excerpt": "Comprehensive market analysis of the global carpet and rug industry, including market size ($62.9B in 2025), growth projections (9.59% CAGR), regional breakdown, and competitive landscape.",
+    "source_name": "Wayfair Market Intelligence",
+    "published_at": "2025-01-01"
+  },
+  {
+    "id": "blog_area_rug_guide",
+    "filename": "area_rug_guide.pdf",
+    "category": "area_rug",
+    "blog_type": "guide",
     "url": "https://www.wayfair.com/ideas-and-advice/area-rug-buying-guide",
     "title": "The Complete Area Rug Buying Guide: Sizes, Styles & Materials",
-    "excerpt": "Everything you need to know about choosing the perfect area rug for your space. From measuring your room to selecting the right material, this comprehensive guide covers all the essentials for making an informed purchase.",
+    "excerpt": "Everything you need to know about choosing the perfect area rug for your space. From measuring your room to selecting the right material, this comprehensive guide covers all the essentials.",
     "source_name": "Wayfair Ideas & Advice",
-    "published_at": "2024-09-01"
+    "published_at": "2025-01-01"
   },
   {
-    "id": "blog_outdoor_rug",
-    "filename": "outdoor_rug.pdf",
+    "id": "blog_outdoor_rug_trends",
+    "filename": "outdoor_rug_trends.pdf",
     "category": "outdoor_rug",
+    "blog_type": "trends",
+    "url": "https://www.wayfair.com/ideas-and-advice/outdoor-rug-trends",
+    "title": "Outdoor Rug Trends 2025-2026: Styles, Colors & Materials",
+    "excerpt": "Explore the latest outdoor rug trends including bold geometric patterns, nature-inspired colors, performance materials, and multi-functional outdoor living solutions.",
+    "source_name": "Wayfair Ideas & Advice",
+    "published_at": "2025-01-01"
+  },
+  {
+    "id": "blog_outdoor_rug_market",
+    "filename": "outdoor_rug_market.pdf",
+    "category": "outdoor_rug",
+    "blog_type": "market",
+    "url": "https://www.wayfair.com/ideas-and-advice/outdoor-rug-market",
+    "title": "Outdoor Rug Market Report 2025-2033: Industry Analysis & Forecasts",
+    "excerpt": "In-depth market analysis of the outdoor rug segment within the broader carpet and rug industry, covering market size, growth drivers, material trends, and regional opportunities.",
+    "source_name": "Wayfair Market Intelligence",
+    "published_at": "2025-01-01"
+  },
+  {
+    "id": "blog_outdoor_rug_guide",
+    "filename": "outdoor_rug_guide.pdf",
+    "category": "outdoor_rug",
+    "blog_type": "guide",
     "url": "https://www.wayfair.com/ideas-and-advice/outdoor-rug-guide",
     "title": "Outdoor Rugs: Weather-Resistant Options for Patios & Decks",
-    "excerpt": "Discover how to choose durable outdoor rugs that withstand sun, rain, and heavy foot traffic. Learn about the best materials like polypropylene and recycled plastic, plus styling tips for creating an inviting outdoor living space.",
+    "excerpt": "Discover how to choose durable outdoor rugs that withstand sun, rain, and heavy foot traffic. Learn about the best materials like polypropylene and recycled plastic, plus styling tips.",
     "source_name": "Wayfair Ideas & Advice",
-    "published_at": "2024-08-15"
+    "published_at": "2025-01-01"
   },
   {
-    "id": "blog_hallway_runner",
-    "filename": "hallway_runner.pdf",
+    "id": "blog_hallway_runner_trends",
+    "filename": "hallway_runner_trends.pdf",
     "category": "hallway_runner",
+    "blog_type": "trends",
+    "url": "https://www.wayfair.com/ideas-and-advice/hallway-runner-trends",
+    "title": "Hallway Runner Trends 2025-2026: Patterns, Colors & Styles",
+    "excerpt": "Discover the latest hallway runner trends including sculptural minimalism, quiet luxury, bold geometrics, warm earth tones, and personalized bespoke designs.",
+    "source_name": "Wayfair Ideas & Advice",
+    "published_at": "2025-01-01"
+  },
+  {
+    "id": "blog_hallway_runner_market",
+    "filename": "hallway_runner_market.pdf",
+    "category": "hallway_runner",
+    "blog_type": "market",
+    "url": "https://www.wayfair.com/ideas-and-advice/hallway-runner-market",
+    "title": "Hallway Runner Market Report 2025-2033: Segment Analysis & Growth",
+    "excerpt": "Market analysis of the hallway runner segment, including size trends, material preferences, price point distribution, and growth opportunities within the broader rug market.",
+    "source_name": "Wayfair Market Intelligence",
+    "published_at": "2025-01-01"
+  },
+  {
+    "id": "blog_hallway_runner_guide",
+    "filename": "hallway_runner_guide.pdf",
+    "category": "hallway_runner",
+    "blog_type": "guide",
     "url": "https://www.wayfair.com/ideas-and-advice/runner-rug-guide",
     "title": "Hallway Runner Rugs: Sizing, Placement & Style Guide",
-    "excerpt": "Transform your entryways, hallways, and staircases with the perfect runner rug. This guide covers standard runner sizes, how to measure for the ideal fit, and design tips to create a welcoming first impression.",
+    "excerpt": "Transform your entryways, hallways, and staircases with the perfect runner rug. This guide covers standard runner sizes, how to measure for the ideal fit, and design tips.",
     "source_name": "Wayfair Ideas & Advice",
-    "published_at": "2024-10-01"
+    "published_at": "2025-01-01"
   },
   {
-    "id": "blog_shag_rug",
-    "filename": "shag_rug.pdf",
+    "id": "blog_shag_rug_trends",
+    "filename": "shag_rug_trends.pdf",
     "category": "shag_rug",
+    "blog_type": "trends",
+    "url": "https://www.wayfair.com/ideas-and-advice/shag-rug-trends",
+    "title": "Shag Rug Trends 2025-2026: Textures, Colors & Styles",
+    "excerpt": "Shag is back! Explore the top shag rug trends including high pile textures, neutral colors with personality, bold statement colors, oversized pieces, and washable options.",
+    "source_name": "Wayfair Ideas & Advice",
+    "published_at": "2025-01-01"
+  },
+  {
+    "id": "blog_shag_rug_market",
+    "filename": "shag_rug_market.pdf",
+    "category": "shag_rug",
+    "blog_type": "market",
+    "url": "https://www.wayfair.com/ideas-and-advice/shag-rug-market",
+    "title": "Shag Rug Market Report 2025-2033: Growth Drivers & Forecasts",
+    "excerpt": "Market analysis of the shag rug segment covering growth factors, material preferences (polyester growing at 12.05% CAGR), washable innovation, and premium segment trends.",
+    "source_name": "Wayfair Market Intelligence",
+    "published_at": "2025-01-01"
+  },
+  {
+    "id": "blog_shag_rug_guide",
+    "filename": "shag_rug_guide.pdf",
+    "category": "shag_rug",
+    "blog_type": "guide",
     "url": "https://www.wayfair.com/ideas-and-advice/shag-rug-guide",
     "title": "Shag Rugs: Pile Heights, Care Tips & Modern Styling Ideas",
-    "excerpt": "Explore the cozy world of shag rugs, from ultra-plush high-pile options to modern low-pile variations. Learn about different materials, maintenance requirements, and how to incorporate shag rugs into contemporary interiors.",
+    "excerpt": "Explore the cozy world of shag rugs, from ultra-plush high-pile options to modern low-pile variations. Learn about different materials, maintenance requirements, and styling tips.",
     "source_name": "Wayfair Ideas & Advice",
-    "published_at": "2024-10-20"
+    "published_at": "2025-01-01"
   }
 ]
