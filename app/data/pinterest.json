@@ -1,25 +1,5 @@
 [
   {
-    "id": "pin_area_rug_1",
-    "filename": "area_rug_1.jpg",
-    "category": "area_rug",
-    "url": "https://www.pinterest.com/pin/area-rug-living-room-ideas",
-    "caption": "Area Rug Styling Guide: How to choose the perfect size rug for your living room. Pro tip: the rug should be large enough for all front furniture legs to sit on it.",
-    "hashtags": ["#arearug", "#livingroomrug", "#rugsize", "#interiordesigntips", "#homedecor", "#furnitureplacement"],
-    "engagement": 12450,
-    "posted_at": "2024-10-20"
-  },
-  {
-    "id": "pin_area_rug_2",
-    "filename": "area_rug_2.jpg",
-    "category": "area_rug",
-    "url": "https://www.pinterest.com/pin/modern-area-rug-trends",
-    "caption": "2024 Area Rug Trends: Bold geometric patterns and earthy tones are dominating this season. Save this for your next room refresh!",
-    "hashtags": ["#arearug", "#2024trends", "#geometricrug", "#earthytones", "#modernrug", "#homeinspiration"],
-    "engagement": 8932,
-    "posted_at": "2024-11-01"
-  },
-  {
     "id": "pin_area_rug_3",
     "filename": "area_rug_3.jpg",
     "category": "area_rug",

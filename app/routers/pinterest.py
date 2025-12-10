@@ -2,6 +2,7 @@
 import json
 import base64
 import mimetypes
+import random
 from typing import Optional, List
 from pathlib import Path
 from fastapi import APIRouter, Query, HTTPException
@@ -77,6 +78,9 @@ async def get_pinterest_trends(
     # Filter by category if specified
     if category:
         all_items = [item for item in all_items if item.category == category]
+
+    # Shuffle results randomly
+    random.shuffle(all_items)
 
     # Apply limit
     all_items = all_items[:limit]
