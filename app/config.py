@@ -21,6 +21,14 @@ INSTAGRAM_DATA = DATA_DIR / "instagram.json"
 PINTEREST_DATA = DATA_DIR / "pinterest.json"
 BLOGS_DATA = DATA_DIR / "blogs.json"
 
+# Product data files (pre-scraped)
+AMAZON_PRODUCTS = DATA_DIR / "amazon_products.json"
+WALMART_PRODUCTS = DATA_DIR / "walmart_products.json"
+WAYFAIR_PRODUCTS = DATA_DIR / "wayfair_products.json"
+
+# Dashboard template (P5)
+DASHBOARD_TEMPLATE = DATA_DIR / "dashboard_template.html"
+
 # Server settings
 HOST = os.getenv("HOST", "0.0.0.0")
 PORT = int(os.getenv("PORT", 8000))

@@ -13,6 +13,7 @@ from . import __version__
 from .config import (
     HOST, PORT, DEBUG,
     INSTAGRAM_DATA, PINTEREST_DATA, BLOGS_DATA,
+    AMAZON_PRODUCTS, WALMART_PRODUCTS, WAYFAIR_PRODUCTS,
     VALID_CATEGORIES, CATEGORY_NAMES
 )
 from .models import (
@@ -21,7 +22,10 @@ from .models import (
     CategoryInfo,
     CategoryCounts
 )
-from .routers import instagram_router, pinterest_router, blogs_router
+from .routers import (
+    instagram_router, pinterest_router, blogs_router,
+    products_router, template_router,
+)
 
 
 # ============================================
@@ -73,6 +77,8 @@ app.add_middleware(
 app.include_router(instagram_router)
 app.include_router(pinterest_router)
 app.include_router(blogs_router)
+app.include_router(products_router)
+app.include_router(template_router)
 
 
 # ============================================
@@ -105,6 +111,37 @@ def count_total_items(data_file) -> int:
         return 0
 
 
+def count_products_by_category(data_file, category: str) -> int:
+    """Count products in a {retailer}_products.json file for a specific category.
+
+    Supports both shapes:
+      - {"retailer": ..., "products": [...]}  (preferred)
+      - [...]  (bare list)
+    """
+    if not data_file.exists():
+        return 0
+    try:
+        with open(data_file, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        products = data if isinstance(data, list) else data.get("products", [])
+        return len([p for p in products if p.get("category") == category])
+    except Exception:
+        return 0
+
+
+def count_total_products(data_file) -> int:
+    """Count total products in a {retailer}_products.json file (across all categories)."""
+    if not data_file.exists():
+        return 0
+    try:
+        with open(data_file, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        products = data if isinstance(data, list) else data.get("products", [])
+        return len(products)
+    except Exception:
+        return 0
+
+
 # ============================================
 # Root & Health Endpoints
 # ============================================
@@ -133,7 +170,10 @@ async def health_check():
         assets_loaded={
             "instagram": count_total_items(INSTAGRAM_DATA),
             "pinterest": count_total_items(PINTEREST_DATA),
-            "blogs": count_total_items(BLOGS_DATA)
+            "blogs": count_total_items(BLOGS_DATA),
+            "amazon_products": count_total_products(AMAZON_PRODUCTS),
+            "walmart_products": count_total_products(WALMART_PRODUCTS),
+            "wayfair_products": count_total_products(WAYFAIR_PRODUCTS),
         }
     )
 
@@ -159,7 +199,10 @@ async def get_categories():
             counts=CategoryCounts(
                 instagram=count_items_by_category(INSTAGRAM_DATA, cat_id),
                 pinterest=count_items_by_category(PINTEREST_DATA, cat_id),
-                blogs=count_items_by_category(BLOGS_DATA, cat_id)
+                blogs=count_items_by_category(BLOGS_DATA, cat_id),
+                amazon=count_products_by_category(AMAZON_PRODUCTS, cat_id),
+                walmart=count_products_by_category(WALMART_PRODUCTS, cat_id),
+                wayfair=count_products_by_category(WAYFAIR_PRODUCTS, cat_id),
             )
         ))
 

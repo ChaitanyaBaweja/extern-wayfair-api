@@ -81,6 +81,9 @@ class CategoryCounts(BaseModel):
     instagram: int = Field(0, description="Number of Instagram posts")
     pinterest: int = Field(0, description="Number of Pinterest pins")
     blogs: int = Field(0, description="Number of blog articles")
+    amazon: int = Field(0, description="Number of Amazon products")
+    walmart: int = Field(0, description="Number of Walmart products")
+    wayfair: int = Field(0, description="Number of Wayfair products")
 
 
 class CategoryInfo(BaseModel):
@@ -93,6 +96,51 @@ class CategoryInfo(BaseModel):
 class CategoriesResponse(BaseModel):
     """Response for categories endpoint."""
     categories: List[CategoryInfo] = Field(default_factory=list, description="List of available categories")
+
+
+# ============================================
+# Product Models
+# ============================================
+
+class ProductItem(BaseModel):
+    """Single product from a retailer (Amazon, Walmart, Wayfair)."""
+    url: str = Field(..., description="Canonical product URL")
+    name: str = Field(..., description="Product title")
+    price: str = Field("", description='Price formatted as "NN.NN" (no $, no thousand separators). Empty if not found.')
+    details: List[str] = Field(default_factory=list, description="Feature bullets")
+    pattern: str = Field("", description="Pattern/variant name. Empty if not found.")
+    image_url: str = Field("", description="Main product image URL. Empty if not found.")
+    rating: str = Field("", description='Format "X.X out of 5 stars". Empty if not found.')
+    review_count: str = Field("", description='Numeric string, no parens or thousand separators (e.g., "3902"). Empty if not found.')
+
+
+class ProductsResponse(BaseModel):
+    """Response for product endpoints (Amazon, Walmart, Wayfair)."""
+    source: str = Field(..., description="Retailer identifier: amazon, walmart, or wayfair")
+    category: str = Field(..., description="Category key that was requested")
+    total_products: int = Field(0, description="Count of products returned; equal to len(products)")
+    scraped_at: Optional[str] = Field(None, description="ISO 8601 timestamp of when the underlying dataset was refreshed")
+    products: List[ProductItem] = Field(default_factory=list, description="Products for the requested category")
+
+
+class ProductDataItem(BaseModel):
+    """Product item as stored in JSON file. Same shape as ProductItem plus category."""
+    category: str
+    url: str
+    name: str
+    price: str = ""
+    details: List[str] = Field(default_factory=list)
+    pattern: str = ""
+    image_url: str = ""
+    rating: str = ""
+    review_count: str = ""
+
+
+class ProductDataset(BaseModel):
+    """Top-level shape of a {retailer}_products.json file."""
+    retailer: str
+    scraped_at: Optional[str] = None
+    products: List[ProductDataItem] = Field(default_factory=list)
 
 
 # ============================================

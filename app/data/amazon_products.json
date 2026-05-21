@@ -1,0 +1,347 @@
+{
+  "retailer": "amazon",
+  "scraped_at": "2026-05-21T07:17:46.986002Z",
+  "note": "SAMPLE DATA \u2014 synthetic products for testing. Replace with real scraped data via scripts/refresh_dataset.py.",
+  "products": [
+    {
+      "category": "area_rug",
+      "url": "https://www.amazon.com/vintage-distressed-area-rug-8x10/dp/B0A0000000",
+      "name": "Vintage Distressed Area Rug, 8x10, Soft Indoor Carpet for Living Room",
+      "price": "79.99",
+      "details": [
+        "Soft polypropylene pile; stain-resistant for high-traffic areas",
+        "Low-pile design fits under furniture and doorways",
+        "Non-slip backing keeps the rug in place on hard floors",
+        "Vacuum regularly; spot-clean with mild detergent",
+        "Available in multiple sizes from 5x7 to 9x12"
+      ],
+      "pattern": "Persian Medallion",
+      "image_url": "https://m.media-amazon.com/images/I/B0A0000000AC_SL1500_.jpg",
+      "rating": "4.2 out of 5 stars",
+      "review_count": "143"
+    },
+    {
+      "category": "area_rug",
+      "url": "https://www.amazon.com/modern-geometric-area-rug-washable/dp/B0A0000001",
+      "name": "Modern Geometric Area Rug, Machine Washable, Non-Slip Backing",
+      "price": "189.50",
+      "details": [
+        "Power-loomed construction for durability",
+        "Vintage distressed pattern adds character",
+        "Pet-friendly and kid-friendly materials",
+        "Easy to clean and maintain",
+        "Made with eco-conscious fibers"
+      ],
+      "pattern": "Modern Geometric",
+      "image_url": "https://m.media-amazon.com/images/I/B0A0000001AC_SL1500_.jpg",
+      "rating": "4.5 out of 5 stars",
+      "review_count": "1247"
+    },
+    {
+      "category": "area_rug",
+      "url": "https://www.amazon.com/traditional-persian-wool-blend-rug-6x9/dp/B0A0000003",
+      "name": "Traditional Persian-Style Wool Blend Rug, 6x9, Burgundy",
+      "price": "349.00",
+      "details": [
+        "Hand-tufted wool blend for plush texture",
+        "Geometric pattern fits modern interiors",
+        "Tightly woven to resist shedding",
+        "Recommended pad underneath for added grip",
+        "Imported, professional cleaning recommended"
+      ],
+      "pattern": "Vintage Distressed",
+      "image_url": "https://m.media-amazon.com/images/I/B0A0000003AC_SL1500_.jpg",
+      "rating": "4.7 out of 5 stars",
+      "review_count": "143"
+    },
+    {
+      "category": "area_rug",
+      "url": "https://www.amazon.com/bohemian-tribal-area-rug-5x7/dp/B0A0000003",
+      "name": "Bohemian Tribal Indoor Area Rug, Beige and Cream, 5x7",
+      "price": "249.00",
+      "details": [
+        "Soft polypropylene pile; stain-resistant for high-traffic areas",
+        "Low-pile design fits under furniture and doorways",
+        "Non-slip backing keeps the rug in place on hard floors",
+        "Vacuum regularly; spot-clean with mild detergent",
+        "Available in multiple sizes from 5x7 to 9x12"
+      ],
+      "pattern": "Tribal Bohemian",
+      "image_url": "https://m.media-amazon.com/images/I/B0A0000003AC_SL1500_.jpg",
+      "rating": "4.6 out of 5 stars",
+      "review_count": "287"
+    },
+    {
+      "category": "area_rug",
+      "url": "https://www.amazon.com/contemporary-solid-area-rug-9x12-charcoal/dp/B0A0000005",
+      "name": "Contemporary Solid Color Area Rug, Charcoal Gray, 9x12",
+      "price": "478.00",
+      "details": [
+        "Power-loomed construction for durability",
+        "Vintage distressed pattern adds character",
+        "Pet-friendly and kid-friendly materials",
+        "Easy to clean and maintain",
+        "Made with eco-conscious fibers"
+      ],
+      "pattern": "Solid Color",
+      "image_url": "https://m.media-amazon.com/images/I/B0A0000005AC_SL1500_.jpg",
+      "rating": "4.8 out of 5 stars",
+      "review_count": "2103"
+    },
+    {
+      "category": "outdoor_rug",
+      "url": "https://www.amazon.com/indooroutdoor-striped-patio-rug-8x10/dp/B0A0000000",
+      "name": "Indoor/Outdoor Striped Patio Rug, 8x10, Fade-Resistant Polypropylene",
+      "price": "49.99",
+      "details": [
+        "Weather-resistant polypropylene fibers",
+        "UV-protected colors won't fade in sunlight",
+        "Mold and mildew resistant for damp conditions",
+        "Hose down to clean; air-dry quickly",
+        "Ideal for patios, decks, and covered porches"
+      ],
+      "pattern": "Striped",
+      "image_url": "https://m.media-amazon.com/images/I/B0A0000000AC_SL1500_.jpg",
+      "rating": "4.2 out of 5 stars",
+      "review_count": "143"
+    },
+    {
+      "category": "outdoor_rug",
+      "url": "https://www.amazon.com/reversible-outdoor-rug-geometric-5x7/dp/B0A0000001",
+      "name": "Reversible Outdoor Rug, Geometric Pattern, 5x7, Weather-Resistant",
+      "price": "119.99",
+      "details": [
+        "Reversible design doubles the look",
+        "Flat-weave construction stays in place outdoors",
+        "Lightweight and easy to roll up for storage",
+        "Fade-resistant for 1000+ hours of sun exposure",
+        "Works on uneven surfaces"
+      ],
+      "pattern": "Trellis",
+      "image_url": "https://m.media-amazon.com/images/I/B0A0000001AC_SL1500_.jpg",
+      "rating": "4.5 out of 5 stars",
+      "review_count": "1247"
+    },
+    {
+      "category": "outdoor_rug",
+      "url": "https://www.amazon.com/flatweave-outdoor-rug-9x12-navy/dp/B0A0000002",
+      "name": "Flat-Weave Outdoor Rug for Deck and Porch, 9x12, Navy and White",
+      "price": "119.99",
+      "details": [
+        "Weather-resistant polypropylene fibers",
+        "UV-protected colors won't fade in sunlight",
+        "Mold and mildew resistant for damp conditions",
+        "Hose down to clean; air-dry quickly",
+        "Ideal for patios, decks, and covered porches"
+      ],
+      "pattern": "Geometric",
+      "image_url": "https://m.media-amazon.com/images/I/B0A0000002AC_SL1500_.jpg",
+      "rating": "4.5 out of 5 stars",
+      "review_count": "3902"
+    },
+    {
+      "category": "outdoor_rug",
+      "url": "https://www.amazon.com/uv-protected-outdoor-rug-trellis-6x9/dp/B0A0000004",
+      "name": "UV-Protected Outdoor Rug, Trellis Pattern, 6x9, Sand",
+      "price": "219.00",
+      "details": [
+        "Reversible design doubles the look",
+        "Flat-weave construction stays in place outdoors",
+        "Lightweight and easy to roll up for storage",
+        "Fade-resistant for 1000+ hours of sun exposure",
+        "Works on uneven surfaces"
+      ],
+      "pattern": "Solid Color",
+      "image_url": "https://m.media-amazon.com/images/I/B0A0000004AC_SL1500_.jpg",
+      "rating": "4.7 out of 5 stars",
+      "review_count": "512"
+    },
+    {
+      "category": "outdoor_rug",
+      "url": "https://www.amazon.com/lightweight-polypropylene-outdoor-mat-4x6/dp/B0A0000005",
+      "name": "Lightweight Polypropylene Outdoor Mat, 4x6, Easy to Clean",
+      "price": "219.00",
+      "details": [
+        "Weather-resistant polypropylene fibers",
+        "UV-protected colors won't fade in sunlight",
+        "Mold and mildew resistant for damp conditions",
+        "Hose down to clean; air-dry quickly",
+        "Ideal for patios, decks, and covered porches"
+      ],
+      "pattern": "Reversible Two-Tone",
+      "image_url": "https://m.media-amazon.com/images/I/B0A0000005AC_SL1500_.jpg",
+      "rating": "4.7 out of 5 stars",
+      "review_count": "1247"
+    },
+    {
+      "category": "hallway_runner",
+      "url": "https://www.amazon.com/persian-style-hallway-runner-2x10/dp/B0A0000000",
+      "name": "Persian Style Hallway Runner Rug, 2x10 ft, Non-Slip Backing",
+      "price": "39.99",
+      "details": [
+        "Long, narrow design fits hallways and entryways",
+        "Non-skid latex backing prevents sliding",
+        "Stain-resistant for high-traffic foot paths",
+        "Available in lengths from 6 ft to 14 ft",
+        "Machine-washable on gentle cycle"
+      ],
+      "pattern": "Persian",
+      "image_url": "https://m.media-amazon.com/images/I/B0A0000000AC_SL1500_.jpg",
+      "rating": "4.2 out of 5 stars",
+      "review_count": "143"
+    },
+    {
+      "category": "hallway_runner",
+      "url": "https://www.amazon.com/vintage-distressed-hallway-runner-2x12/dp/B0A0000001",
+      "name": "Vintage Distressed Hallway Runner, 2x12, Machine Washable",
+      "price": "89.00",
+      "details": [
+        "Hand-knotted detail in transitional pattern",
+        "Compact pile profile fits under doors",
+        "Color-bleed-resistant dye",
+        "Works in narrow spaces and stairways",
+        "Spot-clean with mild soap and water"
+      ],
+      "pattern": "Trellis",
+      "image_url": "https://m.media-amazon.com/images/I/B0A0000001AC_SL1500_.jpg",
+      "rating": "4.5 out of 5 stars",
+      "review_count": "1247"
+    },
+    {
+      "category": "hallway_runner",
+      "url": "https://www.amazon.com/modern-trellis-runner-rug-25x8/dp/B0A0000002",
+      "name": "Modern Trellis Runner Rug, 2.5x8, Stain Resistant",
+      "price": "89.00",
+      "details": [
+        "Long, narrow design fits hallways and entryways",
+        "Non-skid latex backing prevents sliding",
+        "Stain-resistant for high-traffic foot paths",
+        "Available in lengths from 6 ft to 14 ft",
+        "Machine-washable on gentle cycle"
+      ],
+      "pattern": "Tribal",
+      "image_url": "https://m.media-amazon.com/images/I/B0A0000002AC_SL1500_.jpg",
+      "rating": "4.5 out of 5 stars",
+      "review_count": "3902"
+    },
+    {
+      "category": "hallway_runner",
+      "url": "https://www.amazon.com/tribal-bohemian-long-runner-3x14/dp/B0A0000004",
+      "name": "Tribal Bohemian Long Runner, 3x14, Beige and Rust",
+      "price": "159.99",
+      "details": [
+        "Hand-knotted detail in transitional pattern",
+        "Compact pile profile fits under doors",
+        "Color-bleed-resistant dye",
+        "Works in narrow spaces and stairways",
+        "Spot-clean with mild soap and water"
+      ],
+      "pattern": "Solid",
+      "image_url": "https://m.media-amazon.com/images/I/B0A0000004AC_SL1500_.jpg",
+      "rating": "4.7 out of 5 stars",
+      "review_count": "512"
+    },
+    {
+      "category": "hallway_runner",
+      "url": "https://www.amazon.com/solid-gray-hallway-runner-2x10/dp/B0A0000005",
+      "name": "Solid Gray Hallway Runner, 2x10, Pet-Friendly",
+      "price": "159.99",
+      "details": [
+        "Long, narrow design fits hallways and entryways",
+        "Non-skid latex backing prevents sliding",
+        "Stain-resistant for high-traffic foot paths",
+        "Available in lengths from 6 ft to 14 ft",
+        "Machine-washable on gentle cycle"
+      ],
+      "pattern": "Floral",
+      "image_url": "https://m.media-amazon.com/images/I/B0A0000005AC_SL1500_.jpg",
+      "rating": "4.7 out of 5 stars",
+      "review_count": "1247"
+    },
+    {
+      "category": "shag_rug",
+      "url": "https://www.amazon.com/plush-shag-area-rug-8x10-cream/dp/B0A0000000",
+      "name": "Plush High-Pile Shag Area Rug, 8x10, Cream",
+      "price": "89.99",
+      "details": [
+        "1.5\" plush pile for ultimate softness underfoot",
+        "Hand-woven shag construction",
+        "Hypoallergenic synthetic fibers",
+        "Ideal for bedrooms and lounges",
+        "Vacuum without beater bar to preserve pile"
+      ],
+      "pattern": "Solid",
+      "image_url": "https://m.media-amazon.com/images/I/B0A0000000AC_SL1500_.jpg",
+      "rating": "4.2 out of 5 stars",
+      "review_count": "143"
+    },
+    {
+      "category": "shag_rug",
+      "url": "https://www.amazon.com/soft-faux-fur-shag-rug-5x7-white/dp/B0A0000001",
+      "name": "Soft Faux Fur Shag Rug for Bedroom, 5x7, White",
+      "price": "179.00",
+      "details": [
+        "Faux fur texture adds modern luxury",
+        "Heat-set polyester yarns resist matting",
+        "Available in solid and ombre colorways",
+        "Recommended rug pad for hardwood floors",
+        "Brush gently to maintain loft"
+      ],
+      "pattern": "Ombre",
+      "image_url": "https://m.media-amazon.com/images/I/B0A0000001AC_SL1500_.jpg",
+      "rating": "4.5 out of 5 stars",
+      "review_count": "1247"
+    },
+    {
+      "category": "shag_rug",
+      "url": "https://www.amazon.com/modern-ombre-shag-rug-6x9-gray/dp/B0A0000002",
+      "name": "Modern Ombre Shag Rug, 6x9, Gray Gradient",
+      "price": "179.00",
+      "details": [
+        "1.5\" plush pile for ultimate softness underfoot",
+        "Hand-woven shag construction",
+        "Hypoallergenic synthetic fibers",
+        "Ideal for bedrooms and lounges",
+        "Vacuum without beater bar to preserve pile"
+      ],
+      "pattern": "Faux Fur",
+      "image_url": "https://m.media-amazon.com/images/I/B0A0000002AC_SL1500_.jpg",
+      "rating": "4.5 out of 5 stars",
+      "review_count": "3902"
+    },
+    {
+      "category": "shag_rug",
+      "url": "https://www.amazon.com/cozy-multitone-shag-rug-8x10/dp/B0A0000004",
+      "name": "Cozy Multi-Tone Shag Rug, 8x10, Beige and Charcoal",
+      "price": "329.00",
+      "details": [
+        "Faux fur texture adds modern luxury",
+        "Heat-set polyester yarns resist matting",
+        "Available in solid and ombre colorways",
+        "Recommended rug pad for hardwood floors",
+        "Brush gently to maintain loft"
+      ],
+      "pattern": "Multi-Tone",
+      "image_url": "https://m.media-amazon.com/images/I/B0A0000004AC_SL1500_.jpg",
+      "rating": "4.7 out of 5 stars",
+      "review_count": "512"
+    },
+    {
+      "category": "shag_rug",
+      "url": "https://www.amazon.com/luxe-highpile-shag-rug-5x7-blush/dp/B0A0000005",
+      "name": "Luxe High-Pile Shag Rug, 5x7, Blush Pink",
+      "price": "329.00",
+      "details": [
+        "1.5\" plush pile for ultimate softness underfoot",
+        "Hand-woven shag construction",
+        "Hypoallergenic synthetic fibers",
+        "Ideal for bedrooms and lounges",
+        "Vacuum without beater bar to preserve pile"
+      ],
+      "pattern": "Trellis Texture",
+      "image_url": "https://m.media-amazon.com/images/I/B0A0000005AC_SL1500_.jpg",
+      "rating": "4.7 out of 5 stars",
+      "review_count": "1247"
+    }
+  ]
+}
