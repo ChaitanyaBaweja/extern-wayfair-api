@@ -6,7 +6,8 @@ Three endpoints share the same request/response shape:
   GET /api/products/wayfair
 
 The server does NOT scrape live. Data is read from app/data/{retailer}_products.json,
-which is refreshed offline by scripts/refresh_dataset.py (see scripts/README.md).
+which is refreshed manually every few weeks via the procedure in
+scripts/MANUAL_REFRESH_RUNBOOK.md (paste-into-Chrome JS extractors).
 """
 import json
 import random
