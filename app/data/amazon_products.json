@@ -1,7 +1,6 @@
 {
   "retailer": "amazon",
-  "scraped_at": "2026-05-23T09:30:04.893Z",
-  "note": "Scraped via Claude-in-Chrome from Amazon search result pages",
+  "scraped_at": "2026-05-23T11:35:58.402Z",
   "products": [
     {
       "category": "area_rug",
@@ -16,28 +15,6 @@
     },
     {
       "category": "area_rug",
-      "url": "https://www.amazon.com/dp/B0CYT2LXHC",
-      "name": "Soalmost Washable Area Rug 8x10, Large Soft Rugs for Living Room Vintage Beige Carpet 8x10 Area Rugs for Bedroom Dining Room Non-Slip Stain Resistant Under Table Rug",
-      "price": "89.99",
-      "details": [],
-      "pattern": "",
-      "image_url": "https://m.media-amazon.com/images/I/91ezAeN5CmL._AC_UL320_.jpg",
-      "rating": "4.4 out of 5 stars",
-      "review_count": "3"
-    },
-    {
-      "category": "area_rug",
-      "url": "https://www.amazon.com/dp/B0GGHPR94C",
-      "name": "WeWove Hand Woven Area Rug 5x8 Feet - Jute Cotton Area Rug Rustic Farmhouse Boho Accent Rug for Living Room Bedroom Kitchen Dorm Entryway Hallway - Handcrafted Floor Rug Natural White",
-      "price": "109.99",
-      "details": [],
-      "pattern": "",
-      "image_url": "https://m.media-amazon.com/images/I/71PP7idPMgL._AC_UL320_.jpg",
-      "rating": "5.0 out of 5 stars",
-      "review_count": "1"
-    },
-    {
-      "category": "area_rug",
       "url": "https://www.amazon.com/dp/B0F5X83KSM",
       "name": "5x7 Area Rug Living Room Rug: Washable Modern Abstract Soft Thin Rug Indoor Floor No Slip Stain Resistant Carpet for Bedroom Dining Room Farmhouse Nursery Home Office - Black",
       "price": "27.99",
@@ -49,13 +26,13 @@
     },
     {
       "category": "area_rug",
-      "url": "https://www.amazon.com/dp/B0F3Y4N7G6",
-      "name": "8x10 Area Rugs for Living Room: Floral Washable Rug Vintage Large Soft Boho Non-Slip Carpet Indoor Floor Stain Resistant Carpets for Bedroom Dining Room Farmhouse Nursery Home Office Dark Green",
-      "price": "69.99",
+      "url": "https://www.amazon.com/dp/B0GGHPR94C",
+      "name": "WeWove Hand Woven Area Rug 5x8 Feet - Jute Cotton Area Rug Rustic Farmhouse Boho Accent Rug for Living Room Bedroom Kitchen Dorm Entryway Hallway - Handcrafted Floor Rug Natural White",
+      "price": "109.99",
       "details": [],
       "pattern": "",
-      "image_url": "https://m.media-amazon.com/images/I/911m6qKJrHL._AC_UL320_.jpg",
-      "rating": "4.5 out of 5 stars",
+      "image_url": "https://m.media-amazon.com/images/I/71PP7idPMgL._AC_UL320_.jpg",
+      "rating": "5.0 out of 5 stars",
       "review_count": "1"
     },
     {
@@ -71,6 +48,28 @@
     },
     {
       "category": "area_rug",
+      "url": "https://www.amazon.com/dp/B0CYT2LXHC",
+      "name": "Soalmost Washable Area Rug 8x10, Large Soft Rugs for Living Room Vintage Beige Carpet 8x10 Area Rugs for Bedroom Dining Room Non-Slip Stain Resistant Under Table Rug",
+      "price": "89.99",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/91ezAeN5CmL._AC_UL320_.jpg",
+      "rating": "4.4 out of 5 stars",
+      "review_count": "3"
+    },
+    {
+      "category": "area_rug",
+      "url": "https://www.amazon.com/dp/B0F3Y4N7G6",
+      "name": "8x10 Area Rugs for Living Room: Floral Washable Rug Vintage Large Soft Boho Non-Slip Carpet Indoor Floor Stain Resistant Carpets for Bedroom Dining Room Farmhouse NurseryHome Office Dark Green",
+      "price": "69.99",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/911m6qKJrHL._AC_UL320_.jpg",
+      "rating": "4.5 out of 5 stars",
+      "review_count": "1"
+    },
+    {
+      "category": "area_rug",
       "url": "https://www.amazon.com/dp/B0GL357H51",
       "name": "8x10 Area Rugs for Living Room: Vintage Boho Neutral Washable Rug Indoor Soft Large Area Rug Carpet for Bedroom Nursery Farmhouse Dining Room Office Floor Non-Slip Low Pile Under Table Rug Beige",
       "price": "68.99",
@@ -79,39 +78,6 @@
       "image_url": "https://m.media-amazon.com/images/I/81TkMS2S3lL._AC_UL320_.jpg",
       "rating": "4.4 out of 5 stars",
       "review_count": "100"
-    },
-    {
-      "category": "area_rug",
-      "url": "https://www.amazon.com/dp/B0FC6546WL",
-      "name": "8x10 Area Rugs for Living Room: Ultra Soft Fluffy Shag Grey Rugs for Bedroom, Non-Slip Large Fuzzy Plush Rug Indoor Floor Carpet for Nursery Kids Boys Girls Room, Dorms, Playroom, Modern Home Decor",
-      "price": "49.99",
-      "details": [],
-      "pattern": "",
-      "image_url": "https://m.media-amazon.com/images/I/81SYP+x3hgL._AC_UL320_.jpg",
-      "rating": "4.5 out of 5 stars",
-      "review_count": "797"
-    },
-    {
-      "category": "area_rug",
-      "url": "https://www.amazon.com/dp/B0CRHG6V7Q",
-      "name": "8x10 Area Rugs Washable Rug: Large Modern Abstract Living Room Rug Soft Anti-Skid Thin Carpet Indoor Floor Non-Shedding Carpets for Bedroom Dining Farmhouse Nursery Home Office Black Grey Gold",
-      "price": "89.99",
-      "details": [],
-      "pattern": "",
-      "image_url": "https://m.media-amazon.com/images/I/81ZonsX2L-L._AC_UL320_.jpg",
-      "rating": "4.6 out of 5 stars",
-      "review_count": "2"
-    },
-    {
-      "category": "area_rug",
-      "url": "https://www.amazon.com/dp/B0DYTK12WP",
-      "name": "6x9 Ft Large Shag Rugs for Living Room Decor, Tie-Dyed Ultra Soft Fluffy Furry Area Rugs for Bedroom Indoor Floor, Aesthetic Carpet for Kids Home (Dark Grey)",
-      "price": "34.99",
-      "details": [],
-      "pattern": "",
-      "image_url": "https://m.media-amazon.com/images/I/81TMGI9gqJL._AC_UL320_.jpg",
-      "rating": "4.4 out of 5 stars",
-      "review_count": "1"
     },
     {
       "category": "area_rug",
@@ -126,6 +92,39 @@
     },
     {
       "category": "area_rug",
+      "url": "https://www.amazon.com/dp/B0CRHG6V7Q",
+      "name": "8x10 Area Rugs Washable Rug: Large Modern Abstract Living Room Rug Soft Anti-Skid Thin Carpet Indoor Floor Non-Shedding Carpets for Bedroom Dining Farmhouse Nursery Home Office Black Grey Gold",
+      "price": "89.99",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/81ZonsX2L-L._AC_UL320_.jpg",
+      "rating": "4.6 out of 5 stars",
+      "review_count": "2"
+    },
+    {
+      "category": "area_rug",
+      "url": "https://www.amazon.com/dp/B0FC6546WL",
+      "name": "8x10 Area Rugs for Living Room: Ultra Soft Fluffy Shag Grey Rugs for Bedroom, Non-Slip Large Fuzzy Plush Rug Indoor Floor Carpet for Nursery Kids Boys Girls Room, Dorms, Playroom, Modern Home Decor",
+      "price": "49.99",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/81SYP+x3hgL._AC_UL320_.jpg",
+      "rating": "4.5 out of 5 stars",
+      "review_count": "797"
+    },
+    {
+      "category": "area_rug",
+      "url": "https://www.amazon.com/dp/B0DYTK12WP",
+      "name": "6x9 Ft Large Shag Rugs for Living Room Decor, Tie-Dyed Ultra Soft Fluffy Furry Area Rugs for Bedroom Indoor Floor, Aesthetic Carpet for Kids Home (Dark Grey)",
+      "price": "34.99",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/81TMGI9gqJL._AC_UL320_.jpg",
+      "rating": "4.4 out of 5 stars",
+      "review_count": "1"
+    },
+    {
+      "category": "area_rug",
       "url": "https://www.amazon.com/dp/B0CS62J2G5",
       "name": "RELEANY Area Rugs 5'x7' Washable Non-Slip, Floral Vintage Distress Print Pattern Medallion Carpet for Living Room Bedroom Dining Room, Brick Red Rust Neutral Brown Burnt Orange Green",
       "price": "39.99",
@@ -134,6 +133,204 @@
       "image_url": "https://m.media-amazon.com/images/I/81FfS6A5H5L._AC_UL320_.jpg",
       "rating": "4.6 out of 5 stars",
       "review_count": "6"
+    },
+    {
+      "category": "area_rug",
+      "url": "https://www.amazon.com/dp/B0D91PWCRV",
+      "name": "Black Farmhouse Washable 8x10 Area Rugs for Living Room, Bedroom, Dining Room Kitchen Table Rug for Under Table, Office, Dark Charcoal Tumble Stain Resistant Non-Slip Large Washable (8x10 Black/Multi)",
+      "price": "107.99",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/91Xv--Mam+L._AC_UL320_.jpg",
+      "rating": "4.4 out of 5 stars",
+      "review_count": "4"
+    },
+    {
+      "category": "area_rug",
+      "url": "https://www.amazon.com/dp/B0F62N5SY5",
+      "name": "Lofus 8x10 Area Rug for Living Room,Green Washable Large Rugs with Non-Slip Backing,Soft Boho Carpets for Bedroom Dining Room Home Office Indoor Nursery",
+      "price": "63.63",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/91GS7jN7ovL._AC_UL320_.jpg",
+      "rating": "4.5 out of 5 stars",
+      "review_count": "523"
+    },
+    {
+      "category": "area_rug",
+      "url": "https://www.amazon.com/dp/B0F5H9MQK2",
+      "name": "Washable Rug 8x10 Area Rugs for Living Room: Large Neutral Soft Rug Abstract Non Slip Low Pile Modern Carpet for Bedroom Kitchen Nursery Office Dining Room Indoor (Beige, 8'x10')",
+      "price": "71.99",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/815J+HGJQaL._AC_UL320_.jpg",
+      "rating": "4.6 out of 5 stars",
+      "review_count": "256"
+    },
+    {
+      "category": "area_rug",
+      "url": "https://www.amazon.com/dp/B0FS26QTCM",
+      "name": "5x7 Area Rugs Living Room Rug: Washable Vintage Boho Rug No Slip Stain Resistant Soft Carpet Indoor Floor Floral Large Carpets for Bedroom Dining Room Farmhouse Nursery Hallway Home Office Beige",
+      "price": "29.99",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/91ZmCyyuRuL._AC_UL320_.jpg",
+      "rating": "4.7 out of 5 stars",
+      "review_count": "916"
+    },
+    {
+      "category": "area_rug",
+      "url": "https://www.amazon.com/dp/B0852WLH7M",
+      "name": "Ophanie Area Rugs for Living Room Bedroom, Washable Non-Slip Fluffy Soft Grey Shag Carpet, Indoor Floor Gray 4x6 Fuzzy Shaggy Living Room Plush Rug for Kids Home Dorm Decor Aesthetic",
+      "price": "12.99",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/81arZAs+0TL._AC_UL320_.jpg",
+      "rating": "4.3 out of 5 stars",
+      "review_count": "24"
+    },
+    {
+      "category": "area_rug",
+      "url": "https://www.amazon.com/dp/B0DP4RW2LZ",
+      "name": "8x10 Area Rugs for Living Room Rug Washable: Abstract Large Rug for Dining Room Bedroom Carpet Non Slip 8 by 10 Indoor Modern Nursery Home Office Blue Grey",
+      "price": "79.99",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/91oqYu3n0gL._AC_UL320_.jpg",
+      "rating": "4.7 out of 5 stars",
+      "review_count": "2"
+    },
+    {
+      "category": "area_rug",
+      "url": "https://www.amazon.com/dp/B0F1XYMY7H",
+      "name": "Rugflix 8x10 Area Rugs for Living Room, Washable Large Rug Stain-Resistant Low Pile, Modern Dark Carpet for Dining Room Home Office Kid Room Nursery Bedroom, Navy Blue/Black",
+      "price": "58.49",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/81dSvh0tb3L._AC_UL320_.jpg",
+      "rating": "4.5 out of 5 stars",
+      "review_count": "873"
+    },
+    {
+      "category": "area_rug",
+      "url": "https://www.amazon.com/dp/B0FMKH6QHG",
+      "name": "RELEANY Washable Area Rugs 5'x7' Non-Slip Modern Abstract Soft for Living Room Entryway Bedroom Nursery, Print Pattern, Dark Black Gold",
+      "price": "49.99",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/81BKDxym2vL._AC_UL320_.jpg",
+      "rating": "4.5 out of 5 stars",
+      "review_count": "4"
+    },
+    {
+      "category": "area_rug",
+      "url": "https://www.amazon.com/dp/B0CS6125QJ",
+      "name": "RELEANY Area Rugs 9'x12' Washable Non-Slip, Floral Vintage Distress Print Pattern Medallion Carpet for Living Room Bedroom Dining Room, Brick Red Rust Neutral Brown Burnt Orange Green",
+      "price": "129.99",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/913dguH0RRL._AC_UL320_.jpg",
+      "rating": "4.6 out of 5 stars",
+      "review_count": "6"
+    },
+    {
+      "category": "area_rug",
+      "url": "https://www.amazon.com/dp/B0G1T3FSYP",
+      "name": "6x9 Ft Large Area Rugs for Living Room, Soft Non-Slip Washable Rugs Modern Abstract Pattern Carpet for Bedroom Indoor Floor Nursery Home Decor (Blue)",
+      "price": "34.99",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/81pTsd1J8cL._AC_UL320_.jpg",
+      "rating": "4.6 out of 5 stars",
+      "review_count": "277"
+    },
+    {
+      "category": "area_rug",
+      "url": "https://www.amazon.com/dp/B0DMNJW3NJ",
+      "name": "8x10 Area Rugs Washable Rug: Anti-Skid Abstract Modern Living Room Rug Soft Thin Carpets Indoor Floor Non-Shedding Carpet for Bedroom DiningFarmhouse Nursery Home Office (White Gray, 8'x10')",
+      "price": "73.99",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/81Wv882qYfL._AC_UL320_.jpg",
+      "rating": "4.7 out of 5 stars",
+      "review_count": "467"
+    },
+    {
+      "category": "area_rug",
+      "url": "https://www.amazon.com/dp/B0DR18VGHV",
+      "name": "5x7 Black Area Rugs for Living Room, Large Fluffy Shag Bedroom Rugs Non-Slip, Ultra Soft Plush Carpet for Nursery Kids PlayRoom Dorm Office Indoor Modern Carpets",
+      "price": "20.99",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/81xhTYiSorL._AC_UL320_.jpg",
+      "rating": "4.4 out of 5 stars",
+      "review_count": "1"
+    },
+    {
+      "category": "area_rug",
+      "url": "https://www.amazon.com/dp/B0DWSLN4N9",
+      "name": "Srugn Washable Area Rug for Living, Bedroom & Dining Room, Ultra Soft Faux Wool Retro Large Carpet, Non-Slip/Shedding Low Pile Vintage Print for Home Office Decor, Beige Ivory Cream Brown Camel, 5x7",
+      "price": "33.29",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/81akG6kYlsL._AC_UL320_.jpg",
+      "rating": "4.4 out of 5 stars",
+      "review_count": "2"
+    },
+    {
+      "category": "area_rug",
+      "url": "https://www.amazon.com/dp/B0DT1MRXQ2",
+      "name": "FinRe\u0300c 5x7 Washable Area Rugs for Bedroom Living Room, Low Pile Thin Rug Solid Color, Non-Slip Carpet Indoor for Home Decor (Grey)",
+      "price": "26.99",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/81vJ8HZD7DL._AC_UL320_.jpg",
+      "rating": "4.3 out of 5 stars",
+      "review_count": "389"
+    },
+    {
+      "category": "area_rug",
+      "url": "https://www.amazon.com/dp/B0GGBBLHRT",
+      "name": "8x10 Area Rugs for Living Room Bedroom: Black Grey Soft Fluffy Shag Upgrade Non-Slip High Pile Carpet Large Fuzzy Plush Indoor Floor Decor Shaggy Rug for Kid Boys Girls Playroom Nursery Modern Home",
+      "price": "44.99",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/81qmoonEnBL._AC_UL320_.jpg",
+      "rating": "4.5 out of 5 stars",
+      "review_count": "179"
+    },
+    {
+      "category": "area_rug",
+      "url": "https://www.amazon.com/dp/B0DLK9F9S5",
+      "name": "Srugn Washable Rugs 8x10 Area Rugs for Living Room,Ultra Soft Faux Wool Retro Rugs for Bedroom,Dining Room,Non Slip&Non-Shedding Low Pile Vintage Print Rug Indoor Large Carpets for Home Office Decor",
+      "price": "71.99",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/81b5bwW2MKL._AC_UL320_.jpg",
+      "rating": "4.4 out of 5 stars",
+      "review_count": "2"
+    },
+    {
+      "category": "area_rug",
+      "url": "https://www.amazon.com/dp/B0DQD5X8Z7",
+      "name": "Tortania Washable 9x12 Area Rug for Living Room: Modern Abstract Neutral Large Soft Thin Rugs - Non Slip Indoor Carpet for Bedroom Dining Room Office Nursery Home Floor Decoration - Brown Grey",
+      "price": "89.99",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/91j+BUd9naL._AC_UL320_.jpg",
+      "rating": "4.6 out of 5 stars",
+      "review_count": "390"
+    },
+    {
+      "category": "area_rug",
+      "url": "https://www.amazon.com/dp/B0FC5TDK7Y",
+      "name": "8x10 Area Rug for Living Room:Ultra Soft Fluffy Shag Black Rugs,Large Fuzzy Plush Indoor Non Slip Carpet Washable Rug for Bedroom Kids Nursery Office Dorm Modern Decor(Black)",
+      "price": "59.99",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/91RgJiIyN9L._AC_UL320_.jpg",
+      "rating": "4.5 out of 5 stars",
+      "review_count": "803"
     },
     {
       "category": "outdoor_rug",
@@ -148,14 +345,14 @@
     },
     {
       "category": "outdoor_rug",
-      "url": "https://www.amazon.com/dp/B09YCTD74F",
-      "name": "GENIMO Outdoor Rug for Patio Clearance,5'x8' Waterproof Mat,Reversible Plastic Camping Rugs,Rv,Porch,Deck,Camper,Balcony,Backyard,Black & Gray",
-      "price": "23.45",
+      "url": "https://www.amazon.com/dp/B0DMM9V35B",
+      "name": "Colorful 5x8 Outdoor Area Rug Washable Multicolored Patio Rug Tropical Botanical Floral Chenille Waterproof Outdoor Carpet for Living Room, Deck, Backyard, Porch, Rainbow",
+      "price": "59.99",
       "details": [],
       "pattern": "",
-      "image_url": "https://m.media-amazon.com/images/I/91uc5kNBJyL._AC_UL320_.jpg",
-      "rating": "4.2 out of 5 stars",
-      "review_count": "6"
+      "image_url": "https://m.media-amazon.com/images/I/91hNBRB+M7L._AC_UL320_.jpg",
+      "rating": "4.1 out of 5 stars",
+      "review_count": "1"
     },
     {
       "category": "outdoor_rug",
@@ -170,25 +367,14 @@
     },
     {
       "category": "outdoor_rug",
-      "url": "https://www.amazon.com/dp/B0DMM9V35B",
-      "name": "Colorful 5x8 Outdoor Area Rug Washable Multicolored Patio Rug Tropical Botanical Floral Chenille Waterproof Outdoor Carpet for Living Room, Deck, Backyard, Porch, Rainbow",
-      "price": "59.99",
+      "url": "https://www.amazon.com/dp/B09YCTD74F",
+      "name": "GENIMO Outdoor Rug for Patio Clearance,5'x8' Waterproof Mat,Reversible Plastic Camping Rugs,Rv,Porch,Deck,Camper,Balcony,Backyard,Black & Gray",
+      "price": "23.45",
       "details": [],
       "pattern": "",
-      "image_url": "https://m.media-amazon.com/images/I/91hNBRB+M7L._AC_UL320_.jpg",
-      "rating": "4.1 out of 5 stars",
-      "review_count": "1"
-    },
-    {
-      "category": "outdoor_rug",
-      "url": "https://www.amazon.com/dp/B091YMYV7Q",
-      "name": "SAND MINE Waterproof Outdoor Rug 5x8 ft, Plastic Reversible Rug, Modern Area Rug, Large Floor Mat for Outdoors, RV, Patio, Backyard, Deck, Picnic, Beach, Camping, Black & Beige",
-      "price": "24.69",
-      "details": [],
-      "pattern": "",
-      "image_url": "https://m.media-amazon.com/images/I/91b8I189EAL._AC_UL320_.jpg",
-      "rating": "4.4 out of 5 stars",
-      "review_count": "11"
+      "image_url": "https://m.media-amazon.com/images/I/91uc5kNBJyL._AC_UL320_.jpg",
+      "rating": "4.2 out of 5 stars",
+      "review_count": "6"
     },
     {
       "category": "outdoor_rug",
@@ -203,17 +389,6 @@
     },
     {
       "category": "outdoor_rug",
-      "url": "https://www.amazon.com/dp/B0GX7GJF89",
-      "name": "Tommy Bahama Patio Country Botanical Coastal Indoor/Outdoor Area Rug, Beige/Cream, 5'2\"x7'2\"",
-      "price": "219.99",
-      "details": [],
-      "pattern": "",
-      "image_url": "https://m.media-amazon.com/images/I/A1ilDiTZI1L._AC_UL320_.jpg",
-      "rating": "",
-      "review_count": ""
-    },
-    {
-      "category": "outdoor_rug",
       "url": "https://www.amazon.com/dp/B07T7L441K",
       "name": "JONATHAN Y Moroccan Geometric Indoor Outdoor Area Rug 8X10 Natural/Black, Ourika Textured Weave for Backyard, Patio, Porch, Easy-Cleaning, High Traffic, Pet-Friendly, Non-Shedding (SMB108D-8)",
       "price": "113.99",
@@ -225,14 +400,14 @@
     },
     {
       "category": "outdoor_rug",
-      "url": "https://www.amazon.com/dp/B084WJLL6G",
-      "name": "JONATHAN Y Tropics Palm Leaves Indoor Outdoor Area Rug 8X10 Gray/Blue, Boho for Backyard, Patio, Porch, Easy-Cleaning, High Traffic, Pet-Friendly, Non-Shedding (AMC100A-8)",
-      "price": "127.00",
+      "url": "https://www.amazon.com/dp/B0GX7GJF89",
+      "name": "Tommy Bahama Patio Country Botanical Coastal Indoor/Outdoor Area Rug, Beige/Cream, 5'2\"x7'2\"",
+      "price": "219.99",
       "details": [],
       "pattern": "",
-      "image_url": "https://m.media-amazon.com/images/I/91Dpg88NKjL._AC_UL320_.jpg",
-      "rating": "4.7 out of 5 stars",
-      "review_count": "4"
+      "image_url": "https://m.media-amazon.com/images/I/A1ilDiTZI1L._AC_UL320_.jpg",
+      "rating": "",
+      "review_count": ""
     },
     {
       "category": "outdoor_rug",
@@ -247,14 +422,36 @@
     },
     {
       "category": "outdoor_rug",
-      "url": "https://www.amazon.com/dp/B09YCTM6DR",
-      "name": "GENIMO 5' x 8' Outdoor Rug Waterproof for Patio Decor, Foldable Reversible Plastic Straw Area Rugs Mat for Camper, Outside Carpet for Rv, Deck, Porch, Picnic, Beach, Balcony, Blue & White",
-      "price": "21.98",
+      "url": "https://www.amazon.com/dp/B084WJLL6G",
+      "name": "JONATHAN Y Tropics Palm Leaves Indoor Outdoor Area Rug 8X10 Gray/Blue, Boho for Backyard, Patio, Porch, Easy-Cleaning, High Traffic, Pet-Friendly, Non-Shedding (AMC100A-8)",
+      "price": "127.00",
       "details": [],
       "pattern": "",
-      "image_url": "https://m.media-amazon.com/images/I/81bBN7i73yL._AC_UL320_.jpg",
-      "rating": "4.2 out of 5 stars",
-      "review_count": "5"
+      "image_url": "https://m.media-amazon.com/images/I/91Dpg88NKjL._AC_UL320_.jpg",
+      "rating": "4.7 out of 5 stars",
+      "review_count": "4"
+    },
+    {
+      "category": "outdoor_rug",
+      "url": "https://www.amazon.com/dp/B09PH7HRQG",
+      "name": "RURALITY Outdoor Rug 9x12 Feet Waterproof for Patio Clearance,Large Plastic Straw Mat for Camping,Porch,RV,Reversible, Easy to Clean,Light Coffee",
+      "price": "68.98",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/81ADN+abjXL._AC_UL320_.jpg",
+      "rating": "4.1 out of 5 stars",
+      "review_count": "3"
+    },
+    {
+      "category": "outdoor_rug",
+      "url": "https://www.amazon.com/dp/B0CKL3SPP5",
+      "name": "OLANLY Waterproof Outdoor Rug 5x8 ft, Outdoor Plastic Straw Rug for Camping, RV Mat Outside, Indoor Outdoor Carpet for Porch, Deck, Backyard, Balcony, Picnic, Black & White",
+      "price": "23.99",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/815PRwX0FCL._AC_UL320_.jpg",
+      "rating": "4.4 out of 5 stars",
+      "review_count": "2"
     },
     {
       "category": "outdoor_rug",
@@ -266,6 +463,204 @@
       "image_url": "https://m.media-amazon.com/images/I/91SflESzU4L._AC_UL320_.jpg",
       "rating": "4.7 out of 5 stars",
       "review_count": "470"
+    },
+    {
+      "category": "outdoor_rug",
+      "url": "https://www.amazon.com/dp/B0CWTW6F3N",
+      "name": "Lahome Floral Indoor Outdoor Rugs, 6x9ft Non Slip Outdoor Patio Rug for Balcony Deck, Soft Outdoor Area Rug for Camping PicnicBackyard, RV Outdoor Rugs for LivingRoom Dining Bedroom,Multi",
+      "price": "83.99",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/910sKFO4tyL._AC_UL320_.jpg",
+      "rating": "4.4 out of 5 stars",
+      "review_count": "563"
+    },
+    {
+      "category": "outdoor_rug",
+      "url": "https://www.amazon.com/dp/B0DJQKP7PG",
+      "name": "KMAT Outdoor Rug, Waterproof Reversible Patio Rugs, 5x8ft Large Outdoor Area Rug Foldable Plastic Camping Rugs for Outside RV, Patio,Picnic,Camper,Balcony,Porch (Blue &White)",
+      "price": "23.99",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/919I1YLPKmL._AC_UL320_.jpg",
+      "rating": "4.1 out of 5 stars",
+      "review_count": "385"
+    },
+    {
+      "category": "outdoor_rug",
+      "url": "https://www.amazon.com/dp/B0BNBXCFSY",
+      "name": "GENIMO Outdoor Rug 8' x 10' Waterproof for Patios Clearance, Reversible Plastic Straw Camping Rug Carpet, Large Area Rugs Mats for RV, Picnic, Backyard, Deck, Balcony, Porch, Beach, Grey&White",
+      "price": "63.98",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/91BRI0O7PYL._AC_UL320_.jpg",
+      "rating": "4.3 out of 5 stars",
+      "review_count": "6"
+    },
+    {
+      "category": "outdoor_rug",
+      "url": "https://www.amazon.com/dp/B0FY671916",
+      "name": "GENIMO Outdoor & Indoor Area Rug 5'x8', Waterproof, Non-Shedding, Easy Cleaning, Boho Mat for Patio, Living Room, Balcony, Dining Room, RV, Deck, Bedroom, Camping, Outside Carpet,Blue",
+      "price": "59.99",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/91+I8QnSPdL._AC_UL320_.jpg",
+      "rating": "4.4 out of 5 stars",
+      "review_count": "279"
+    },
+    {
+      "category": "outdoor_rug",
+      "url": "https://www.amazon.com/dp/B07TC71NP4",
+      "name": "JONATHAN Y Boho Medallion Indoor Outdoor Area Rug 8X10 Navy/Gray, Estrella Textured Weave for Backyard, Patio, Porch, Easy-Cleaning, High Traffic, Pet-Friendly, Non-Shedding (SMB105B-8)",
+      "price": "103.80",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/91z-j5xY7DL._AC_UL320_.jpg",
+      "rating": "4.7 out of 5 stars",
+      "review_count": "2"
+    },
+    {
+      "category": "outdoor_rug",
+      "url": "https://www.amazon.com/dp/B0BNBV3123",
+      "name": "GENIMO Outdoor Rug 9' x 12' Waterproof for Patios Clearance, Reversible Plastic Straw Camping Carpet, Large Area Rugs Mats RV, Picnic, Backyard, Deck, Balcony, Porch, Beach, Grey&White",
+      "price": "71.98",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/91WwryFTmtL._AC_UL320_.jpg",
+      "rating": "4.3 out of 5 stars",
+      "review_count": "6"
+    },
+    {
+      "category": "outdoor_rug",
+      "url": "https://www.amazon.com/dp/B0CLRX3C8M",
+      "name": "GENIMO Outdoor Rug 10' x 14' Waterproof for Patios Clearance, Reversible Outdoor Plastic Straw Camping Rug Carpet, Large Area Rugs Mats for RV, Camper, Deck, Balcony, Porch, Beach, Picnic, Grey&White",
+      "price": "98.59",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/91WwryFTmtL._AC_UL320_.jpg",
+      "rating": "4.3 out of 5 stars",
+      "review_count": "6"
+    },
+    {
+      "category": "outdoor_rug",
+      "url": "https://www.amazon.com/dp/B0819V5F75",
+      "name": "JONATHAN Y Floral Textured Weave Indoor Outdoor Area Rug 9X12 Navy/Green, Zinnia Modern for Backyard, Patio, Porch, Easy-Cleaning, High Traffic, Pet-Friendly, Non-Shedding (SMB110B-9)",
+      "price": "148.00",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/91OcdQ2N4BL._AC_UL320_.jpg",
+      "rating": "4.5 out of 5 stars",
+      "review_count": "5"
+    },
+    {
+      "category": "outdoor_rug",
+      "url": "https://www.amazon.com/dp/B088CT5ZRZ",
+      "name": "Nuloom Asha Light Brown/Ivory, 9'6\" x 12', Casual, Striped Border, Soft and Cozy, High Traffic, Stain Resistant, Easy Clean, Durable Area Rug for Indoor/Outdoor Patio, Deck, Porch, Garden, Courtyard",
+      "price": "225.00",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/91SkP-bYZDL._AC_UL320_.jpg",
+      "rating": "4.6 out of 5 stars",
+      "review_count": "3"
+    },
+    {
+      "category": "outdoor_rug",
+      "url": "https://www.amazon.com/dp/B09YCTM6DR",
+      "name": "GENIMO 5' x 8' Outdoor Rug Waterproof for Patio Decor, Foldable Reversible Plastic Straw Area Rugs Mat for Camper, Outside Carpet for Rv, Deck, Porch, Picnic, Beach, Balcony, Blue & White",
+      "price": "21.98",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/81bBN7i73yL._AC_UL320_.jpg",
+      "rating": "4.2 out of 5 stars",
+      "review_count": "5"
+    },
+    {
+      "category": "outdoor_rug",
+      "url": "https://www.amazon.com/dp/B0D9V5VBH8",
+      "name": "Smiry Waterproof Outdoor Rug 5x8 ft, Reversible Plastic Straw Patio Camping Rugs, Outdoor Indoor RV Mat Carpet for Patio, Outside Entry, Backyard, Deck, Bench, Picnic, Camper, Black & Beige",
+      "price": "27.98",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/91lG9HFT09L._AC_UL320_.jpg",
+      "rating": "4.4 out of 5 stars",
+      "review_count": "1"
+    },
+    {
+      "category": "outdoor_rug",
+      "url": "https://www.amazon.com/dp/B0FC6BQ8QY",
+      "name": "Scalloped Easy Jute 3x5 Outdoor Rug, Washable Rugs for Entryway Black Front Door Mat, Farmhouse Neutral Non Slip Indoor Carpet for Patio Living Room Backyard",
+      "price": "41.99",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/81SVObNs9jL._AC_UL320_.jpg",
+      "rating": "4.5 out of 5 stars",
+      "review_count": "278"
+    },
+    {
+      "category": "outdoor_rug",
+      "url": "https://www.amazon.com/dp/B0BX45VHR9",
+      "name": "SAND MINE Reversible Mats, Plastic Straw Rug, Modern Area Rug, Large Floor Mat and Rug for Outdoors, RV, Patio, Backyard, Deck, Picnic, Beach, Trailer, Camping, Black & Beige, 6' x 9'",
+      "price": "37.99",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/91I2MYrEx-L._AC_UL320_.jpg",
+      "rating": "4.4 out of 5 stars",
+      "review_count": "11"
+    },
+    {
+      "category": "outdoor_rug",
+      "url": "https://www.amazon.com/dp/B0GPWF1BBL",
+      "name": "MontVoo-Outdoor Rug-Patio Rug 5x7 ft Polypropylene Indoor Outdoor Rugs Outdoor Carpet for Patio Deck Balcony Porch, Textured Weave, Durable for High Traffic, Fade-Resistant, Modern Neutral Brown",
+      "price": "69.99",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/91xYN44CJcL._AC_UL320_.jpg",
+      "rating": "4.6 out of 5 stars",
+      "review_count": "32"
+    },
+    {
+      "category": "outdoor_rug",
+      "url": "https://www.amazon.com/dp/B081D6VHXK",
+      "name": "JONATHAN Y Boho Medallion Indoor Outdoor Area Rug 8X10 Black/Gray, Malta Textured Weave for Backyard, Patio, Porch, Easy-Cleaning, High Traffic, Pet-Friendly, Non-Shedding (SMB104C-8)",
+      "price": "107.95",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/A10pbe2+OpL._AC_UL320_.jpg",
+      "rating": "4.6 out of 5 stars",
+      "review_count": "2"
+    },
+    {
+      "category": "outdoor_rug",
+      "url": "https://www.amazon.com/dp/B0G49DTMY3",
+      "name": "Garvee Waterproof Outdoor Rug 5x8, Checkered Foldable Plastic Straw Patio Camping Rug, Outdoor RV Carpet for Deck Camper Porch Balcony Backyard Picnic Beach Black and Brown",
+      "price": "23.98",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/91AxA0H0LWL._AC_UL320_.jpg",
+      "rating": "4.5 out of 5 stars",
+      "review_count": "44"
+    },
+    {
+      "category": "outdoor_rug",
+      "url": "https://www.amazon.com/dp/B0C2YVV59F",
+      "name": "HappyTrends Outdoor Rug Reversible Portable Plastic Straw Camping Rugs for Outside RV,Large Waterproof Outdoor Area Rugs for Patio,Deck,Porch,Balcony(5'x 8',White&Gray)",
+      "price": "22.99",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/91bi0cKh7TL._AC_UL320_.jpg",
+      "rating": "4.3 out of 5 stars",
+      "review_count": "1"
+    },
+    {
+      "category": "outdoor_rug",
+      "url": "https://www.amazon.com/dp/B0CPLVVC17",
+      "name": "Pauwer Waterproof Outdoor Rug 5x8, Reversible Plastic Straw Patio Camping Rug, Indoor Outdoor RV Mat Carpet for Deck, Camper, Porch, Balcony, Backyard, Picnic, Leaf Brown",
+      "price": "29.99",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/91etQ5Y3b0L._AC_UL320_.jpg",
+      "rating": "4.4 out of 5 stars",
+      "review_count": "1"
     },
     {
       "category": "hallway_runner",
@@ -324,17 +719,6 @@
     },
     {
       "category": "hallway_runner",
-      "url": "https://www.amazon.com/dp/B0FMR5896F",
-      "name": "Runners for Hallways 2x8 Kitchen Runner Rugs，Modern Abstract Rug Runners for Entryway，Stain Resistant Washable Runner Rug Non-Slip 8ft Carpet Rug for Bedroom Living Laundry Room（Grey,2'x8'）",
-      "price": "21.99",
-      "details": [],
-      "pattern": "",
-      "image_url": "https://m.media-amazon.com/images/I/81HqDQobnXL._AC_UL320_.jpg",
-      "rating": "4.5 out of 5 stars",
-      "review_count": "371"
-    },
-    {
-      "category": "hallway_runner",
       "url": "https://www.amazon.com/dp/B0DL5WX4D6",
       "name": "Dark Washable Long Runners for Hallways, 2'6\"x8' Wide Kitchen Runner Rug, Entryway Indoor Rug, Non Slip Rubber Backing Boho Vintage Floor Decor, Ashen/Multi",
       "price": "34.46",
@@ -346,14 +730,14 @@
     },
     {
       "category": "hallway_runner",
-      "url": "https://www.amazon.com/dp/B0D91FXV1N",
-      "name": "Black Boho Washable 2x6 Runner Rugs for Hallway Kitchen Bedroom Beside Laundry Room Bathroom Rug, Pet & Kids Friendly, Non Slip Low Pile Stain Resistant Soft Foldable Long 24 x 72 Floor Carpet",
-      "price": "21.59",
+      "url": "https://www.amazon.com/dp/B0FMR5896F",
+      "name": "Runners for Hallways 2x8 Kitchen Runner Rugs\uff0cModern Abstract Rug Runners for Entryway\uff0cStain Resistant Washable Runner Rug Non-Slip 8ft Carpet Rug for Bedroom Living Laundry Room\uff08Grey,2'x8'\uff09",
+      "price": "21.99",
       "details": [],
       "pattern": "",
-      "image_url": "https://m.media-amazon.com/images/I/911-nD5s5tL._AC_UL320_.jpg",
-      "rating": "4.4 out of 5 stars",
-      "review_count": "4"
+      "image_url": "https://m.media-amazon.com/images/I/81HqDQobnXL._AC_UL320_.jpg",
+      "rating": "4.5 out of 5 stars",
+      "review_count": "371"
     },
     {
       "category": "hallway_runner",
@@ -368,6 +752,17 @@
     },
     {
       "category": "hallway_runner",
+      "url": "https://www.amazon.com/dp/B0D91FXV1N",
+      "name": "Black Boho Washable 2x6 Runner Rugs for Hallway Kitchen Bedroom Beside Laundry Room Bathroom Rug, Pet & Kids Friendly, Non Slip Low Pile Stain Resistant Soft Foldable Long 24 x 72 Floor Carpet",
+      "price": "21.59",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/911-nD5s5tL._AC_UL320_.jpg",
+      "rating": "4.4 out of 5 stars",
+      "review_count": "4"
+    },
+    {
+      "category": "hallway_runner",
       "url": "https://www.amazon.com/dp/B0CZL3Z3GL",
       "name": "AREDO Runner Rug with Non Slip Rubber Backing, Washable Soft Floor Carpet for Kitchen, Hallway, Entryway Indoor, Bedroom, Laundry, Low Pile Area Rugs, Solid color with Pointillism style, 2*6 ft BLACK",
       "price": "35.85",
@@ -376,6 +771,17 @@
       "image_url": "https://m.media-amazon.com/images/I/81IQTEffgGL._AC_UL320_.jpg",
       "rating": "4.6 out of 5 stars",
       "review_count": "854"
+    },
+    {
+      "category": "hallway_runner",
+      "url": "https://www.amazon.com/dp/B0F9PBLL19",
+      "name": "Hallway Runner Rug 2x6 Indoor Door Mat - Bear Rustic Cabin Non-Slip Entryway Rug, Low Pile Tribal Print for Kitchen, Bedroom",
+      "price": "32.99",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/818eNu2qc3L._AC_UL320_.jpg",
+      "rating": "4.5 out of 5 stars",
+      "review_count": "716"
     },
     {
       "category": "hallway_runner",
@@ -390,14 +796,201 @@
     },
     {
       "category": "hallway_runner",
-      "url": "https://www.amazon.com/dp/B0F9PBLL19",
-      "name": "Hallway Runner Rug 2x6 Indoor Door Mat - Bear Rustic Cabin Non-Slip Entryway Rug, Low Pile Tribal Print for Kitchen, Bedroom",
+      "url": "https://www.amazon.com/dp/B0CD7FKF2X",
+      "name": "Yamaziot Washable Runner Rug, 2x8 Non-Slip Boho Vintage Hallway Rug Runner with Rubber Backing, Stain Resistant & Low Pile Faux Wool Distressed Carpet Runner for Bedroom, Kitchen, Laundry, Entrance",
+      "price": "19.98",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/81iqUCBdgkL._AC_UL320_.jpg",
+      "rating": "4.5 out of 5 stars",
+      "review_count": "2"
+    },
+    {
+      "category": "hallway_runner",
+      "url": "https://www.amazon.com/dp/B0CSW8GNZ4",
+      "name": "SERISSA Runner Rug for Hallways, 2'6\"x10' Washable Non Slip Kitchen Runner Rug, Long Boho Rug Vintage Rust Hallway Stair Ultra Soft Print Floor Carpet for Bedroom Bathroom Laundry Room",
+      "price": "39.99",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/812zxp03JsL._AC_UL320_.jpg",
+      "rating": "4.6 out of 5 stars",
+      "review_count": "2"
+    },
+    {
+      "category": "hallway_runner",
+      "url": "https://www.amazon.com/dp/B0FVLQQTPJ",
+      "name": "8ft Long Runners for Hallways Non Slip, 2'6\" x 8' Floor Runner for Kitchen, Entryway Indoor, Washable Rubber Backing Stain Resistant - Vintage Floral Dark Green & Black Wide D\u00e9cor",
+      "price": "40.99",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/910iSJVltNL._AC_UL320_.jpg",
+      "rating": "4.5 out of 5 stars",
+      "review_count": "1"
+    },
+    {
+      "category": "hallway_runner",
+      "url": "https://www.amazon.com/dp/B0B6HST5YT",
+      "name": "HEBE Hallway Runner Rug 2'x6' Washable Vintage Kitchen Rugs Non Slip Laundry Rug Runner Distressed Boho Floor Carpet Runners for Hallways Entryway Laundry Room Kitchen Bathroom",
+      "price": "29.95",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/81HrX99UhhL._AC_UL320_.jpg",
+      "rating": "4.6 out of 5 stars",
+      "review_count": "4"
+    },
+    {
+      "category": "hallway_runner",
+      "url": "https://www.amazon.com/dp/B0DQKZHRYV",
+      "name": "Yamaziot Washable Runner Rug 2x8 \u2013 Non Slip Boho Floral Hallway Runner Rug with Rubber Backing, Low Pile Wool Distressed Carpet for Kitchen, Laundry, Bedroom, Entrance, Mottled Green",
+      "price": "23.99",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/81SXCvamJfL._AC_UL320_.jpg",
+      "rating": "4.6 out of 5 stars",
+      "review_count": "526"
+    },
+    {
+      "category": "hallway_runner",
+      "url": "https://www.amazon.com/dp/B0FMR9MQH4",
+      "name": "Findosom Hallway Runner Rug 2x8, Non Slip High-Low Textured Floral Washable Runner Rug with Rubber Backing, Boho Carpet Runner for Kitchen, Entryway, Bedroom, Laundry, Black & Beige",
+      "price": "27.18",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/81ifJLtv9UL._AC_UL320_.jpg",
+      "rating": "4.6 out of 5 stars",
+      "review_count": "184"
+    },
+    {
+      "category": "hallway_runner",
+      "url": "https://www.amazon.com/dp/B0FBMBRW7P",
+      "name": "LOCHAS Washable Runner Rugs for Hallway, 2x6 Non Sip Soft Rug for Bedroom Entryway Kitchen Laundry Room, Long Abstract Carpet for IndoorFloor Bedside, Grey Geometric Vintage Decor, Pet & kid Friendly",
+      "price": "15.88",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/81W899hdZkL._AC_UL320_.jpg",
+      "rating": "4.4 out of 5 stars",
+      "review_count": "269"
+    },
+    {
+      "category": "hallway_runner",
+      "url": "https://www.amazon.com/dp/B0C21CWMVM",
+      "name": "Ottomanson Hallway Runner Rug 2' x 6' Durable Non-Slip Mat with Scraper Pile for Indoor & Outdoor Use - Ideal for Kitchen, Entryway, Patio & Garage - High-Traffic Carpet, Black",
+      "price": "22.47",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/71Dd7+IQz4L._AC_UL320_.jpg",
+      "rating": "4.6 out of 5 stars",
+      "review_count": "3"
+    },
+    {
+      "category": "hallway_runner",
+      "url": "https://www.amazon.com/dp/B0D1YK4914",
+      "name": "RELEANY Area Rugs 2'x8' Runner Rug Non Slip Washable for Kitchen Hallway Bedroom Beside Laundry Room Bathroom Rug, Floor Carpet, Brick Red Rust Neutral Brown Burnt Orange Green",
+      "price": "39.99",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/81ZqVyjDVHL._AC_UL320_.jpg",
+      "rating": "4.6 out of 5 stars",
+      "review_count": "6"
+    },
+    {
+      "category": "hallway_runner",
+      "url": "https://www.amazon.com/dp/B0FJ2C5W19",
+      "name": "Washable 2x8 Runner Rug- Non Slip Vintage Kitchen Runner Rugs Low-Pile Distressed Long Rugs for Hallway Waterproof Indoor Carpet for Living Room Bedroom Entryway 2'x8' Grey",
+      "price": "19.99",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/91t9C8UfYZL._AC_UL320_.jpg",
+      "rating": "4.6 out of 5 stars",
+      "review_count": "140"
+    },
+    {
+      "category": "hallway_runner",
+      "url": "https://www.amazon.com/dp/B0C1YG36PS",
+      "name": "KOZYFLY Boho Runners for Hallways 2x6 ft Washable Kitchen Runner Non Slip Rubber Backed Hall Runners Cotton Entryway Runner Rugs for Indoor Backdoor Bedroom Kitchen, Orange Beige/Tan/Brown",
       "price": "32.99",
       "details": [],
       "pattern": "",
-      "image_url": "https://m.media-amazon.com/images/I/818eNu2qc3L._AC_UL320_.jpg",
+      "image_url": "https://m.media-amazon.com/images/I/818Lpi6xM0L._AC_UL320_.jpg",
+      "rating": "4.4 out of 5 stars",
+      "review_count": "4"
+    },
+    {
+      "category": "hallway_runner",
+      "url": "https://www.amazon.com/dp/B0DGTPFP89",
+      "name": "Amearea Modern Soft Hallway Runner Rug, 2x6 Feet Washable Runner Rugs for Hallway, Black Fluffy Rug Bedroom Bedside Rugs, Non Slip Memory Foam Rug Carpet for Entrance Kitchen Living Room Decor",
+      "price": "21.99",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/81iD5xLzpcL._AC_UL320_.jpg",
+      "rating": "4.3 out of 5 stars",
+      "review_count": "1"
+    },
+    {
+      "category": "hallway_runner",
+      "url": "https://www.amazon.com/dp/B0D7P3CDV1",
+      "name": "DUKINO 2x6 Runner Rug for Hallway, Washable Kitchen Runner Rug with Non Slip Backing, Low Pile Soft Boho Floral Runner for Kitchen, Hallway, Entryway, Laundry, Bedroom, Black",
+      "price": "18.99",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/91r22L3HUpL._AC_UL320_.jpg",
       "rating": "4.5 out of 5 stars",
-      "review_count": "716"
+      "review_count": "2"
+    },
+    {
+      "category": "hallway_runner",
+      "url": "https://www.amazon.com/dp/B0F239Z2R3",
+      "name": "nesrt Botanical Runners for Hallways Kitchen Rug Non Slip 2x10, Long Washable Boho Jungle Runner Rugs, Soft Floral Forest Birds Carpet Runner for Hall, Laundry, Bedroom, Bathroom (Dark Green)",
+      "price": "19.99",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/81GNsJ6FOJL._AC_UL320_.jpg",
+      "rating": "4.6 out of 5 stars",
+      "review_count": "346"
+    },
+    {
+      "category": "hallway_runner",
+      "url": "https://www.amazon.com/dp/B0F8B7XW58",
+      "name": "GarveeHome Scalloped Washable Kitchen Runner Rug 2x8, Beige Runners for Hallway, Non Slip Boho Soft Bathroom Throw Mat Bordered Carpet Runner for Laundry Entryway Bedroom 2 ft x8 ft Beige",
+      "price": "45.99",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/81Imx5nysmL._AC_UL320_.jpg",
+      "rating": "4.3 out of 5 stars",
+      "review_count": "248"
+    },
+    {
+      "category": "hallway_runner",
+      "url": "https://www.amazon.com/dp/B0DYTK12WP",
+      "name": "6x9 Ft Large Shag Rugs for Living Room Decor, Tie-Dyed Ultra Soft Fluffy Furry Area Rugs for Bedroom Indoor Floor, Aesthetic Carpet for Kids Home (Dark Grey)",
+      "price": "34.99",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/81TMGI9gqJL._AC_UL320_.jpg",
+      "rating": "4.4 out of 5 stars",
+      "review_count": "1"
+    },
+    {
+      "category": "hallway_runner",
+      "url": "https://www.amazon.com/dp/B0DXQ76F5L",
+      "name": "Machine Washable Kitchen Rug 24\" x 96\", Non Slip Kitchen Mat for Floor, Absorbent Entrance Runner Rug for Bedroom, Hallway, Bathroom, Door (Roll Packing)",
+      "price": "84.99",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/81sJUyOlI8L._AC_UL320_.jpg",
+      "rating": "4.7 out of 5 stars",
+      "review_count": "1"
+    },
+    {
+      "category": "hallway_runner",
+      "url": "https://www.amazon.com/dp/B0D1YKZFPJ",
+      "name": "RELEANY Area Rugs 2'x6' Runner Rug Non Slip Washable for Kitchen Hallway Bedroom Beside Laundry Room Bathroom Rug, Floor Carpet, Brick Red Rust Neutral Brown Burnt Orange Green",
+      "price": "23.99",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/81dcIWPRVgL._AC_UL320_.jpg",
+      "rating": "4.6 out of 5 stars",
+      "review_count": "6"
     },
     {
       "category": "shag_rug",
@@ -474,7 +1067,7 @@
       "pattern": "",
       "image_url": "https://m.media-amazon.com/images/I/91RgJiIyN9L._AC_UL320_.jpg",
       "rating": "4.5 out of 5 stars",
-      "review_count": "802"
+      "review_count": "803"
     },
     {
       "category": "shag_rug",
@@ -489,6 +1082,17 @@
     },
     {
       "category": "shag_rug",
+      "url": "https://www.amazon.com/dp/B0D9GFYJBV",
+      "name": "OLANLY Area Rugs for Living Room Bedroom, Machine Washable 4x5.9 ft Soft Fluffy Shaggy Bedside Rug, Indoor Floor Carpet for Kids Girls and Boys, Dorms, Nursery Rooms, Home Decor Aesthetic, Grey",
+      "price": "12.99",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/91tpF-73gYL._AC_UL320_.jpg",
+      "rating": "4.4 out of 5 stars",
+      "review_count": "9"
+    },
+    {
+      "category": "shag_rug",
       "url": "https://www.amazon.com/dp/B0051HEDJQ",
       "name": "SAFAVIEH California Shag Collection Area Rug - 5'3' x 7'6', Beige, Non-Shedding & Easy to Clean, Ultra Plush Thick Pile, Ideal for Living Room, Bedroom, Dining Space (SG151-1313)",
       "price": "123.00",
@@ -500,14 +1104,25 @@
     },
     {
       "category": "shag_rug",
-      "url": "https://www.amazon.com/dp/B0D9GFYJBV",
-      "name": "OLANLY Area Rugs for Living Room Bedroom, Machine Washable 4x5.9 ft Soft Fluffy Shaggy Bedside Rug, Indoor Floor Carpet for Kids Girls and Boys, Dorms, Nursery Rooms, Home Decor Aesthetic, Grey",
-      "price": "12.99",
+      "url": "https://www.amazon.com/dp/B0GGBBLHRT",
+      "name": "8x10 Area Rugs for Living Room Bedroom: Black Grey Soft Fluffy Shag Upgrade Non-Slip High Pile Carpet Large Fuzzy Plush Indoor Floor Decor Shaggy Rug for Kid Boys Girls Playroom Nursery Modern Home",
+      "price": "44.99",
       "details": [],
       "pattern": "",
-      "image_url": "https://m.media-amazon.com/images/I/91tpF-73gYL._AC_UL320_.jpg",
+      "image_url": "https://m.media-amazon.com/images/I/81qmoonEnBL._AC_UL320_.jpg",
+      "rating": "4.5 out of 5 stars",
+      "review_count": "179"
+    },
+    {
+      "category": "shag_rug",
+      "url": "https://www.amazon.com/dp/B0G1Y2JVY7",
+      "name": "6x9 Area Rug for Living Room: Ultra Soft Fluffy Rug Modern Large Thicked Shag Rug for Bedroom Non Slip Indoor Fuzzy Carpets for Girls Kids Room Nursery Dorm Home Decor Grey",
+      "price": "31.99",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/81Grn7NST6L._AC_UL320_.jpg",
       "rating": "4.4 out of 5 stars",
-      "review_count": "9"
+      "review_count": "131"
     },
     {
       "category": "shag_rug",
@@ -522,14 +1137,190 @@
     },
     {
       "category": "shag_rug",
-      "url": "https://www.amazon.com/dp/B0GGBBLHRT",
-      "name": "8x10 Area Rugs for Living Room Bedroom: Black Grey Soft Fluffy Shag Upgrade Non-Slip High Pile Carpet Large Fuzzy Plush Indoor Floor Decor Shaggy Rug for Kid Boys Girls Playroom Nursery Modern Home",
-      "price": "44.99",
+      "url": "https://www.amazon.com/dp/B0G1XJLK2T",
+      "name": "6x9 Area Rug for Living Room, Ultra Soft Fluffy Shag Rugs for Bedroom, Non-Slip Large Fuzzy Plush Rug Indoor Floor Carpet for Nursery Kids Office Dorm Modern Decor, Gray Camel",
+      "price": "56.99",
       "details": [],
       "pattern": "",
-      "image_url": "https://m.media-amazon.com/images/I/81qmoonEnBL._AC_UL320_.jpg",
-      "rating": "4.5 out of 5 stars",
-      "review_count": "179"
+      "image_url": "https://m.media-amazon.com/images/I/81SrkZgK0rL._AC_UL320_.jpg",
+      "rating": "4.7 out of 5 stars",
+      "review_count": "130"
+    },
+    {
+      "category": "shag_rug",
+      "url": "https://www.amazon.com/dp/B0DR18VGHV",
+      "name": "5x7 Black Area Rugs for Living Room, Large Fluffy Shag Bedroom Rugs Non-Slip, Ultra Soft Plush Carpet for Nursery Kids PlayRoom Dorm Office Indoor Modern Carpets",
+      "price": "20.99",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/81xhTYiSorL._AC_UL320_.jpg",
+      "rating": "4.4 out of 5 stars",
+      "review_count": "1"
+    },
+    {
+      "category": "shag_rug",
+      "url": "https://www.amazon.com/dp/B0FNWMPSDH",
+      "name": "Ophanie 5x7 Area Rugs for Living Room Ivory, Fluffy Shag Large Fuzzy Plush Soft Rug, Shaggy Floor Big Carpets for Bedroom Nursery, Kids Home Decor Aesthetic",
+      "price": "38.99",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/81lmZQzsFvL._AC_UL320_.jpg",
+      "rating": "4.3 out of 5 stars",
+      "review_count": "24"
+    },
+    {
+      "category": "shag_rug",
+      "url": "https://www.amazon.com/dp/B0GHJLN6F4",
+      "name": "Fluffy Area Rugs 9x12 Living Room Bedroom: Ultra Soft Shag Rug Upgrade Non-Slip Non-Shedding Large Fuzzy Plush Carpet Indoor Floor Carpets for Kids Room Playroom Nursery Dorms Home Decor Black",
+      "price": "89.99",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/81ZE4KFRAKL._AC_UL320_.jpg",
+      "rating": "4.7 out of 5 stars",
+      "review_count": "255"
+    },
+    {
+      "category": "shag_rug",
+      "url": "https://www.amazon.com/dp/B005140GUY",
+      "name": "SAFAVIEH Area Rug 8x10 - Florida Shag Collection - Large - Smoke & Beige, Floral Design, Non-Shedding & Easy Cleaning, Plush Thick Pile, Ideal for Living Room, Bedroom, Dining Space (SG464-7913)",
+      "price": "202.00",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/A1d1Ol1LXEL._AC_UL320_.jpg",
+      "rating": "4.6 out of 5 stars",
+      "review_count": "1"
+    },
+    {
+      "category": "shag_rug",
+      "url": "https://www.amazon.com/dp/B01M0FB151",
+      "name": "SAFAVIEH Area Rug 8x10 - Arizona Shag Collection - Large - Ivory & Beige, Moroccan Boho Design, Non-Shedding & Easy to Clean, Ideal for Living Room, Bedroom, Dining Space (ASG741A)",
+      "price": "179.68",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/A1s5j+Ndt5L._AC_UL320_.jpg",
+      "rating": "4.3 out of 5 stars",
+      "review_count": "1"
+    },
+    {
+      "category": "shag_rug",
+      "url": "https://www.amazon.com/dp/B0CYT2LXHC",
+      "name": "Soalmost Washable Area Rug 8x10, Large Soft Rugs for Living Room Vintage Beige Carpet 8x10 Area Rugs for Bedroom Dining Room Non-Slip Stain Resistant Under Table Rug",
+      "price": "89.99",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/91ezAeN5CmL._AC_UL320_.jpg",
+      "rating": "4.4 out of 5 stars",
+      "review_count": "3"
+    },
+    {
+      "category": "shag_rug",
+      "url": "https://www.amazon.com/dp/B0FVSHRWRB",
+      "name": "Shag Rugs for Living Room 8x10, Ultra Soft Abstract Grey Big Fuzzy Rugs for Bedroom, 8 x 10 Fluffy Shaggy Plush Carpet Girls Kids Room Dorm Upgrade Non-Slip",
+      "price": "82.99",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/81Iv1JnAM2L._AC_UL320_.jpg",
+      "rating": "4.3 out of 5 stars",
+      "review_count": "108"
+    },
+    {
+      "category": "shag_rug",
+      "url": "https://www.amazon.com/dp/B0DYTQJM63",
+      "name": "8x10 Ft Extra Large Shag Rugs for Living Room, Tie Dyed Ultra Soft Fluffy Furry Area Rugs for Bedroom Indoor Floor, Aesthetic Carpet for Kids Home Decor (Dark Grey)",
+      "price": "104.49",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/71hMORaCYtL._AC_UL320_.jpg",
+      "rating": "4.4 out of 5 stars",
+      "review_count": "1"
+    },
+    {
+      "category": "shag_rug",
+      "url": "https://www.amazon.com/dp/B0DKWVCPZW",
+      "name": "8x10 Area Rugs for Living Room Bedroom Rug, Large Shaggy Soft Plush Furry Bedside Rug, Area Rugs for Home Decor (Light Grey, 8x10 Feet)",
+      "price": "47.49",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/91wexRYXpmL._AC_UL320_.jpg",
+      "rating": "4.4 out of 5 stars",
+      "review_count": "1"
+    },
+    {
+      "category": "shag_rug",
+      "url": "https://www.amazon.com/dp/B0F32QTW7R",
+      "name": "Amdrebio Burnt Orange Area Rugs for Living Room Bedroom, Fluffy Shaggy Fuzzy Thick Shag Rug 5x7 for Kids Room Decor, Modern Cute Plush Furry Dark Orange Carpet for Nursery Dorm Classroom Playroom",
+      "price": "47.49",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/9159ViLOcXL._AC_UL320_.jpg",
+      "rating": "4.4 out of 5 stars",
+      "review_count": "9"
+    },
+    {
+      "category": "shag_rug",
+      "url": "https://www.amazon.com/dp/B0DGWXG6BT",
+      "name": "yongyangjuxin Fluffy Rug Shag Area Rug, Beige 8x10 Area Rugs for Living Room, Large Shag Area Rugs for Bedroom Kids Room Home Decor, Upgrade Anti-Skid Rectangular Fuzzy Rugs",
+      "price": "79.99",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/8131JA-12RL._AC_UL320_.jpg",
+      "rating": "4.2 out of 5 stars",
+      "review_count": "2"
+    },
+    {
+      "category": "shag_rug",
+      "url": "https://www.amazon.com/dp/B00G4ITP30",
+      "name": "SAFAVIEH Milan Shag Collection Area Rug - 8' x 10', Ivory, Solid Design, Non-Shedding & Easy to Clean, Plush Thick Pile, Ideal for Living Room, Bedroom (SG180-1212)",
+      "price": "350.22",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/91IT6ViEGfL._AC_UL320_.jpg",
+      "rating": "4.7 out of 5 stars",
+      "review_count": "13"
+    },
+    {
+      "category": "shag_rug",
+      "url": "https://www.amazon.com/dp/B0CHML98RQ",
+      "name": "5X8 Ultra Soft Rug for Living Room, 5X8 Fluffy Shag Area Rug for Bedroom, Modern Shaggy Carpets Fuzzy Rug for Teens Dorm Nursery Home Decor Aesthetic, Upgrade Anti-Skid Durable, Grey",
+      "price": "25.99",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/91M6UtWkTvL._AC_UL320_.jpg",
+      "rating": "4.3 out of 5 stars",
+      "review_count": "3"
+    },
+    {
+      "category": "shag_rug",
+      "url": "https://www.amazon.com/dp/B00513ZCVI",
+      "name": "SAFAVIEH Area Rug 8x10 - Florida Shag Collection - Large - Cream & Beige, Scroll Design, Non-Shedding & Easy to Clean, High-Low Plush Pile, Ideal for Living Room, Bedroom, Dining Space (SG455-1113)",
+      "price": "284.24",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/91Dk7Ol3RIL._AC_UL320_.jpg",
+      "rating": "4.7 out of 5 stars",
+      "review_count": "11"
+    },
+    {
+      "category": "shag_rug",
+      "url": "https://www.amazon.com/dp/B0B9GCHFGC",
+      "name": "CAIYUECS Shag Area Rug,Indoor Ultra Soft Fluffy Plush Rugs for Bedroom Living Room, Non-Skid Modern Nursery Faux Fur Rugs for Kids Room Home Decor (Tie-Dyed Light Gray, 5x7 Feet)",
+      "price": "49.99",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/81FAQ+MJDNL._AC_UL320_.jpg",
+      "rating": "4.3 out of 5 stars",
+      "review_count": "1"
+    },
+    {
+      "category": "shag_rug",
+      "url": "https://www.amazon.com/dp/B00PU15TYG",
+      "name": "SAFAVIEH Hudson Shag Collection Area Rug - 5'3\" x 7'6\", Grey & Ivory, Moroccan Trellis Design, Non-Shedding & Easy Care, 2-inch Thick Ideal for High Traffic Areas in Living Room, Bedroom (SGH280B)",
+      "price": "90.61",
+      "details": [],
+      "pattern": "",
+      "image_url": "https://m.media-amazon.com/images/I/A1QPleOibFL._AC_UL320_.jpg",
+      "rating": "4.8 out of 5 stars",
+      "review_count": "10"
     }
   ]
 }

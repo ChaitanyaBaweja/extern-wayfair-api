@@ -9,6 +9,7 @@ The server does NOT scrape live. Data is read from app/data/{retailer}_products.
 which is refreshed offline by scripts/refresh_dataset.py (see scripts/README.md).
 """
 import json
+import random
 from pathlib import Path
 from typing import Optional, List
 from fastapi import APIRouter, Query, HTTPException
@@ -83,7 +84,9 @@ def get_products_for(
     filtered: List[ProductDataItem] = [
         p for p in dataset.products if p.category == category
     ]
-    # Preserve dataset order — these are curated, not random
+    # Shuffle so students get a varied subset on each call.
+    # Mirrors the pattern used by /api/trends/instagram, /pinterest, etc.
+    random.shuffle(filtered)
     selected = filtered[:limit]
 
     products = [
